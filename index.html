@@ -10,17 +10,31 @@
     <body>
         <div id="app">
             <div id="filter">
-                <p>
+                <div>
+                    筛选方式：
+                    <select v-model="filter_type">
+                        <option value="op">作战</option>
+                        <option value="prof">职业</option>
+                    </select>
+                    &nbsp;&nbsp;&nbsp;
                     <button v-on:click="setFilter(true)">全选</button>
                     <button v-on:click="setFilter(false)">全不选</button>
-                </p>
-                <p>
+                </div>
+                <div v-if="filter_type == 'op'">
                     <div class="option" v-for="op in ops">
                         <input type="checkbox" v-model="op.show"> {{op.name}}
                     </div>
-                </p>
+                </div>
+                <div v-if="filter_type == 'prof'">
+                    <div v-for="prof in profs">
+                        {{prof.name}}:
+                        <div class="option" v-for="subprof in prof.sub">
+                            <input type="checkbox" v-model="subprof.show"> {{subprof.name}}
+                        </div>
+                    </div>
+                </div>
             </div>
-            <table id="data">
+            <table id="data" width="100%">
                 <tr><th width="10%">角色</th><th width="40%">任务1</th><th width="50%">任务2</th></tr>
                 <tr v-for="char in filtered_data">
                     <td>{{char.name}}</td>

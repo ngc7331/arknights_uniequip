@@ -18,8 +18,43 @@ CONST = {
 OUTPUT_DIR = 'data'
 OUTPUT = {
     'data': 'data.json',
-    'ops': 'ops.json'
+    'ops': 'ops.json',
+    'profs': 'profs.json'
 }
+
+def getName(s:str):
+    prof_name = {
+        'support': '辅助',
+        'summoner': '召唤师',
+
+        'warrior': '近卫',
+        'instructor': '教官',
+        'sword': '剑豪',
+        'fearless': '无畏者',
+
+        'sniper': '狙击',
+        'longrange': '神射手',
+        'aoesniper': '炮手',
+
+        'medic': '医疗',
+        'ringhealer': '群愈师',
+
+        'special': '特种',
+        'executor': '处决者',
+        'merchant': '行商',
+
+        'caster': '术师',
+        'chain': '链术师',
+        'splashcaster': '扩散术师',
+
+        'pioneer': '先锋',
+        'charger': '冲锋手'
+    }
+    s = s.lower()
+    if s not in prof_name.keys():
+        return s
+    return prof_name[s]
+
 
 def write(path:str, file:str, data:dict):
     if not os.path.exists(path): os.mkdir(path)
@@ -35,27 +70,42 @@ if __name__ == '__main__':
 
     character_table = json.loads(requests.get('{BASE_URL}/{SERVER}/{CHARACTER_TABLE}'.format(**CONST)).content)
 
-    for char, dic in character_table.items():
-        character_table[char] = dic['name']
-
     data = {}
     ops = {}
+    profs = {}
     for char, (_, equip) in char_equip.items():
-        name = character_table[char]
+        name = character_table[char]['name']
         desc = [mission_list[m]['desc'] for m in equip_dict[equip]['missionList']]
+        prof = character_table[char]['profession']
+        subprof = character_table[char]['subProfessionId']
         op = re.search(r'通关(.+)[；;]', desc[1]).group(1)
 
         data[char] = {
             'name': name,
             'desc': desc,
-            'op': op
+            'op': op,
+            'prof': prof,
+            'subprof': subprof
         }
+
         if op not in ops.keys():
             ops[op] = {
                 'name': op,
-                'char': []
+                'show': True
             }
-        ops[op]['char'].append(char)
+
+        if prof not in profs.keys():
+            profs[prof] = {
+                'name': getName(prof),
+                'sub': {}
+            }
+        if subprof not in profs[prof]['sub'].keys():
+            profs[prof]['sub'][subprof] = {
+                'name': getName(subprof),
+                'show': True
+            }
+
 
     write(OUTPUT_DIR, OUTPUT['data'], data)
     write(OUTPUT_DIR, OUTPUT['ops'], ops)
+    write(OUTPUT_DIR, OUTPUT['profs'], profs)

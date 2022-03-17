@@ -1,47 +1,54 @@
 Vue.createApp({
     data() {
         return {
+            loaded: 0,
+            LOADED_TARGET: 3,
             data: {},
-            ops: {}
+            ops: {},
+            profs: {},
+            filter_type: "op"
         }
     },
     computed: {
         filtered_data() {
+            if (this.loaded < this.LOADED_TARGET) { return {}; }
             var data = {};
             for (var key in this.data) {
-                if (this.ops[this.data[key]['op']]['show']) {
-                    data[key] = this.data[key];
-                }
+                var item = this.data[key];
+                if (
+                    this.filter_type=="op" && this.ops[item['op']].show ||
+                    this.filter_type=="prof" && this.profs[item['prof']].sub[item['subprof']].show
+                ) { data[key] = this.data[key]; }
             }
             return data;
         }
     },
     mounted () {
-        this.loadData();
+        this.loadData(this.data, 'data/data.json');
+        this.loadData(this.ops, 'data/ops.json');
+        this.loadData(this.profs, 'data/profs.json');
     },
     methods: {
-        loadData: function() {
-            console.log('load data');
-            axios.get("data/data.json")
-                .then(response => {
-                    this.data = response.data;
-                })
-                .catch(function (error) { console.log(error); });
-            axios.get("data/ops.json")
+        loadData: function(target, url) {
+            console.log('load data from ' + url);
+            axios.get(url)
                 .then(response => {
                     for (var key in response.data) {
-                        this.ops[key] = {
-                            'char': response.data[key]['char'],
-                            'name': response.data[key]['name'],
-                            'show': true
-                        };
+                        target[key] = response.data[key];
                     }
+                    console.log(target);
+                    this.loaded ++;
                 })
                 .catch(function (error) { console.log(error); });
         },
         setFilter: function(s) {
             for (var key in this.ops) {
-                this.ops[key]['show'] = s;
+                this.ops[key].show = s;
+            }
+            for (var key in this.profs) {
+                for (var skey in this.profs[key].subprofs) {
+                    this.profs[key].sub[skey].show = s;
+                }
             }
         }
     }

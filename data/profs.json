@@ -1,0 +1,85 @@
+{
+    "SUPPORT": {
+        "name": "辅助",
+        "sub": {
+            "summoner": {
+                "name": "召唤师",
+                "show": true
+            }
+        }
+    },
+    "WARRIOR": {
+        "name": "近卫",
+        "sub": {
+            "instructor": {
+                "name": "教官",
+                "show": true
+            },
+            "sword": {
+                "name": "剑豪",
+                "show": true
+            },
+            "fearless": {
+                "name": "无畏者",
+                "show": true
+            }
+        }
+    },
+    "SNIPER": {
+        "name": "狙击",
+        "sub": {
+            "longrange": {
+                "name": "神射手",
+                "show": true
+            },
+            "aoesniper": {
+                "name": "炮手",
+                "show": true
+            }
+        }
+    },
+    "MEDIC": {
+        "name": "医疗",
+        "sub": {
+            "ringhealer": {
+                "name": "群愈师",
+                "show": true
+            }
+        }
+    },
+    "SPECIAL": {
+        "name": "特种",
+        "sub": {
+            "executor": {
+                "name": "处决者",
+                "show": true
+            },
+            "merchant": {
+                "name": "行商",
+                "show": true
+            }
+        }
+    },
+    "CASTER": {
+        "name": "术师",
+        "sub": {
+            "chain": {
+                "name": "链术师",
+                "show": true
+            },
+            "splashcaster": {
+                "name": "扩散术师",
+                "show": true
+            }
+        }
+    },
+    "PIONEER": {
+        "name": "先锋",
+        "sub": {
+            "charger": {
+                "name": "冲锋手",
+                "show": true
+            }
+        }
+    }
+}
