@@ -1,4 +1,5 @@
 import json
+import os
 import re
 import requests
 
@@ -11,9 +12,19 @@ CONST = {
 #    'SERVER': 'ja_JP',
 #    'SERVER': 'ko_KR',
     'UNIEQUIP_TABLE': 'gamedata/excel/uniequip_table.json',
-    'CHARACTER_TABLE': 'gamedata/excel/character_table.json',
-    'OUTPUT': './out.json'
+    'CHARACTER_TABLE': 'gamedata/excel/character_table.json'
 }
+
+OUTPUT_DIR = 'data'
+OUTPUT = {
+    'data': 'data.json',
+    'ops': 'ops.json'
+}
+
+def write(path:str, file:str, data:dict):
+    if not os.path.exists(path): os.mkdir(path)
+    with open(os.path.join(path, file), 'w') as f:
+        json.dump(data, f, ensure_ascii=False, indent=4, separators=(',', ': '))
 
 
 if __name__ == '__main__':
@@ -27,12 +38,24 @@ if __name__ == '__main__':
     for char, dic in character_table.items():
         character_table[char] = dic['name']
 
-    res = {}
+    data = {}
+    ops = {}
     for char, (_, equip) in char_equip.items():
-        res[character_table[char]] = {
-            'desc': [mission_list[m]['desc'] for m in equip_dict[equip]['missionList']],
-        }
-        res[character_table[char]]['op'] = re.search(r'通关(.+)[；;]', res[character_table[char]]['desc'][1]).group(1)
+        name = character_table[char]
+        desc = [mission_list[m]['desc'] for m in equip_dict[equip]['missionList']]
+        op = re.search(r'通关(.+)[；;]', desc[1]).group(1)
 
-    with open(CONST['OUTPUT'], 'w') as f:
-        json.dump(res, f, ensure_ascii=False, indent=4, separators=(',', ': '))
+        data[char] = {
+            'name': name,
+            'desc': desc,
+            'op': op
+        }
+        if op not in ops.keys():
+            ops[op] = {
+                'name': op,
+                'char': []
+            }
+        ops[op]['char'].append(char)
+
+    write(OUTPUT_DIR, OUTPUT['data'], data)
+    write(OUTPUT_DIR, OUTPUT['ops'], ops)
