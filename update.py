@@ -1,4 +1,5 @@
 import json
+import re
 import requests
 
 CONST = {
@@ -21,9 +22,17 @@ if __name__ == '__main__':
     equip_dict = uniequip_table['equipDict']
     mission_list = uniequip_table['missionList']
 
-    character_table = {char: dic['name'] for char, dic in json.loads(requests.get('{BASE_URL}/{SERVER}/{CHARACTER_TABLE}'.format(**CONST)).content).items()}
+    character_table = json.loads(requests.get('{BASE_URL}/{SERVER}/{CHARACTER_TABLE}'.format(**CONST)).content)
 
-    res = {character_table[char]: {'desc': [mission_list[m]['desc'] for m in equip_dict[equip]['missionList']]} for char, (_, equip) in char_equip.items()}
+    for char, dic in character_table.items():
+        character_table[char] = dic['name']
+
+    res = {}
+    for char, (_, equip) in char_equip.items():
+        res[character_table[char]] = {
+            'desc': [mission_list[m]['desc'] for m in equip_dict[equip]['missionList']],
+        }
+        res[character_table[char]]['op'] = re.search(r'通关(.+)[；;]', res[character_table[char]]['desc'][1]).group(1)
 
     with open(CONST['OUTPUT'], 'w') as f:
         json.dump(res, f, ensure_ascii=False, indent=4, separators=(',', ': '))
