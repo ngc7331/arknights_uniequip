@@ -46,7 +46,7 @@ Vue.createApp({
                 this.ops[key].show = s;
             }
             for (var key in this.profs) {
-                for (var skey in this.profs[key].subprofs) {
+                for (var skey in this.profs[key].sub) {
                     this.profs[key].sub[skey].show = s;
                 }
             }
