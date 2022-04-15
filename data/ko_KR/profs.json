@@ -1,0 +1,34 @@
+{
+    "SUPPORT": {
+        "name": "서포터",
+        "sub": {
+            "summoner": {
+                "name": "소환사"
+            }
+        }
+    },
+    "WARRIOR": {
+        "name": "가드",
+        "sub": {
+            "instructor": {
+                "name": "교관"
+            }
+        }
+    },
+    "SNIPER": {
+        "name": "스나이퍼",
+        "sub": {
+            "longrange": {
+                "name": "저격수"
+            }
+        }
+    },
+    "MEDIC": {
+        "name": "메딕",
+        "sub": {
+            "ringhealer": {
+                "name": "멀티 타겟 메딕"
+            }
+        }
+    }
+}
