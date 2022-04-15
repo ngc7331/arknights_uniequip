@@ -1,0 +1,34 @@
+{
+    "SUPPORT": {
+        "name": "補助",
+        "sub": {
+            "summoner": {
+                "name": "召喚師"
+            }
+        }
+    },
+    "WARRIOR": {
+        "name": "前衛",
+        "sub": {
+            "instructor": {
+                "name": "教官"
+            }
+        }
+    },
+    "SNIPER": {
+        "name": "狙撃",
+        "sub": {
+            "longrange": {
+                "name": "戦術射手"
+            }
+        }
+    },
+    "MEDIC": {
+        "name": "医療",
+        "sub": {
+            "ringhealer": {
+                "name": "群癒師"
+            }
+        }
+    }
+}
