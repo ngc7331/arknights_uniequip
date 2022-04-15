@@ -68,8 +68,7 @@ if __name__ == '__main__':
 
         if op not in ops.keys():
             ops[op] = {
-                'name': op,
-                'show': True
+                'name': op
             }
 
         if prof not in profs.keys():
@@ -79,8 +78,7 @@ if __name__ == '__main__':
             }
         if subprof not in profs[prof]['sub'].keys():
             profs[prof]['sub'][subprof] = {
-                'name': subprof_dict[subprof],
-                'show': True
+                'name': subprof_dict[subprof]
             }
 
 

@@ -38,6 +38,7 @@ Vue.createApp({
                     }
                     console.log(target);
                     this.loaded ++;
+                    this.setFilter(true);
                 })
                 .catch(function (error) { console.log(error); });
         },
