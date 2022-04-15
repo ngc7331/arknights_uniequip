@@ -3,8 +3,10 @@
         "name": "辅助",
         "sub": {
             "summoner": {
-                "name": "召唤师",
-                "show": true
+                "name": "召唤师"
+            },
+            "slower": {
+                "name": "凝滞师"
             }
         }
     },
@@ -12,16 +14,13 @@
         "name": "近卫",
         "sub": {
             "instructor": {
-                "name": "教官",
-                "show": true
+                "name": "教官"
             },
             "sword": {
-                "name": "剑豪",
-                "show": true
+                "name": "剑豪"
             },
             "fearless": {
-                "name": "无畏者",
-                "show": true
+                "name": "无畏者"
             }
         }
     },
@@ -29,12 +28,13 @@
         "name": "狙击",
         "sub": {
             "longrange": {
-                "name": "神射手",
-                "show": true
+                "name": "神射手"
             },
             "aoesniper": {
-                "name": "炮手",
-                "show": true
+                "name": "炮手"
+            },
+            "closerange": {
+                "name": "重射手"
             }
         }
     },
@@ -42,8 +42,7 @@
         "name": "医疗",
         "sub": {
             "ringhealer": {
-                "name": "群愈师",
-                "show": true
+                "name": "群愈师"
             }
         }
     },
@@ -51,12 +50,10 @@
         "name": "特种",
         "sub": {
             "executor": {
-                "name": "处决者",
-                "show": true
+                "name": "处决者"
             },
             "merchant": {
-                "name": "行商",
-                "show": true
+                "name": "行商"
             }
         }
     },
@@ -64,12 +61,10 @@
         "name": "术师",
         "sub": {
             "chain": {
-                "name": "链术师",
-                "show": true
+                "name": "链术师"
             },
             "splashcaster": {
-                "name": "扩散术师",
-                "show": true
+                "name": "扩散术师"
             }
         }
     },
@@ -77,8 +72,7 @@
         "name": "先锋",
         "sub": {
             "charger": {
-                "name": "冲锋手",
-                "show": true
+                "name": "冲锋手"
             }
         }
     }
