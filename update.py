@@ -1,20 +1,27 @@
+import argparse
 import json
 import os
 import re
 import requests
 
-CONST = {
-#    'BASE_URL': 'https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master',
-    'BASE_URL': 'https://fastly.jsdelivr.net/gh/Kengxxiao/ArknightsGameData@master', # JSdelivr
-    'SERVER': 'zh_CN',
-#    'SERVER': 'zh_TW',
-#    'SERVER': 'en_US',
-#    'SERVER': 'ja_JP',
-#    'SERVER': 'ko_KR',
-    'UNIEQUIP_TABLE': 'gamedata/excel/uniequip_table.json',
-    'CHARACTER_TABLE': 'gamedata/excel/character_table.json'
-}
+'''
+NOTE: The ability to match different servers is still under development.
+      Currently only zh_CN can work.
+'''
+SERVER_LIST = ['zh_CN', 'zh_TW', 'en_US', 'ja_JP', 'ko_KR']
 
+parser = argparse.ArgumentParser()
+parser.add_argument('-c', '--use-cdn', action='store_true')
+parser.add_argument('-s', '--server', choices=SERVER_LIST, default='zh_CN')
+args = parser.parse_args()
+
+if args.use_cdn:
+    BASE_URL = 'https://fastly.jsdelivr.net/gh/Kengxxiao/ArknightsGameData@master' # JSdelivr
+else:
+    BASE_URL = 'https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master'
+SERVER = args.server
+UNIEQUIP_TABLE = 'gamedata/excel/uniequip_table.json'
+CHARACTER_TABLE = 'gamedata/excel/character_table.json'
 OUTPUT_DIR = 'data'
 OUTPUT = {
     'data': 'data.json',
@@ -30,7 +37,7 @@ def write(path:str, file:str, data:dict):
 
 
 if __name__ == '__main__':
-    uniequip_table = json.loads(requests.get('{BASE_URL}/{SERVER}/{UNIEQUIP_TABLE}'.format(**CONST)).content)
+    uniequip_table = json.loads(requests.get(f'{BASE_URL}/{SERVER}/{UNIEQUIP_TABLE}').content)
     char_equip = uniequip_table['charEquip']
     equip_dict = uniequip_table['equipDict']
     mission_list = uniequip_table['missionList']
@@ -46,7 +53,7 @@ if __name__ == '__main__':
         'pioneer': '先锋',
     }
 
-    character_table = json.loads(requests.get('{BASE_URL}/{SERVER}/{CHARACTER_TABLE}'.format(**CONST)).content)
+    character_table = json.loads(requests.get(f'{BASE_URL}/{SERVER}/{CHARACTER_TABLE}').content)
 
     data = {}
     ops = {}
