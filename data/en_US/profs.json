@@ -1,0 +1,34 @@
+{
+    "SUPPORT": {
+        "name": "Support",
+        "sub": {
+            "summoner": {
+                "name": "Summoner"
+            }
+        }
+    },
+    "WARRIOR": {
+        "name": "Warrior",
+        "sub": {
+            "instructor": {
+                "name": "Instructor"
+            }
+        }
+    },
+    "SNIPER": {
+        "name": "Sniper",
+        "sub": {
+            "longrange": {
+                "name": "Deadeye"
+            }
+        }
+    },
+    "MEDIC": {
+        "name": "Medic",
+        "sub": {
+            "ringhealer": {
+                "name": "Multi-target Medic"
+            }
+        }
+    }
+}

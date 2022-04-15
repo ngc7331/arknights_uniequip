@@ -1,0 +1,162 @@
+{
+    "char_248_mgllan": {
+        "name": "Magallan",
+        "desc": [
+            "Complete 5 operations and summon Magallan's summoned units at least 5 times in each operation (Magallan cannot be a Support Unit)",
+            "Clear Main Theme 2-5 with a 3-star rating using a squad of at most 2 units (including Support Units); a non-Support Magallan must be deployed during the operation and only Vanguard operators are allowed for the remaining units"
+        ],
+        "op": "Main Theme 2-5",
+        "prof": "SUPPORT",
+        "subprof": "summoner"
+    },
+    "char_336_folivo": {
+        "name": "Scene",
+        "desc": [
+            "Complete 5 operations and summon Scene's summoned units at least 5 times in each operation (Scene cannot be a Support Unit)",
+            "Clear Main Theme 3-1 with a 3-star rating using a squad of at most 2 units (including Support Units); a non-Support Scene must be deployed during the operation and only Sniper operators are allowed for the remaining units"
+        ],
+        "op": "Main Theme 3-1",
+        "prof": "SUPPORT",
+        "subprof": "summoner"
+    },
+    "char_242_otter": {
+        "name": "Mayer",
+        "desc": [
+            "Complete 5 operations and summon Mayer's summoned units at least 5 times in each operation (Mayer cannot be a Support Unit)",
+            "Clear Main Theme 2-9 with a 3-star rating using a squad of at most 3 units (including Support Units); a non-Support Mayer must be deployed during the operation and only Sniper operators are allowed for the remaining units"
+        ],
+        "op": "Main Theme 2-9",
+        "prof": "SUPPORT",
+        "subprof": "summoner"
+    },
+    "char_110_deepcl": {
+        "name": "Deepcolor",
+        "desc": [
+            "Summon a total of 20 summoned units with Deepcolor (Deepcolor cannot be a Support Unit)",
+            "Clear Main Theme 2-4 with a 3-star rating using a squad of at most 1 unit; only a non-Support Deepcolor may be in the squad"
+        ],
+        "op": "Main Theme 2-4",
+        "prof": "SUPPORT",
+        "subprof": "summoner"
+    },
+    "char_485_pallas": {
+        "name": "Pallas",
+        "desc": [
+            "Defeat a total of 50 enemies with Pallas (Pallas cannot be a Support Unit)",
+            "Clear Main Theme 3-6 with a 3-star rating using a squad of at most 2 units (including Support Units); a non-Support Pallas must be deployed during the operation and only Medic operators are allowed for the remaining units"
+        ],
+        "op": "Main Theme 3-6",
+        "prof": "WARRIOR",
+        "subprof": "instructor"
+    },
+    "char_265_sophia": {
+        "name": "Whislash",
+        "desc": [
+            "Defeat a total of 50 enemies with Whislash (Whislash cannot be a Support Unit)",
+            "Clear Main Theme S3-6 with a 3-star rating; a non-Support Whislash must be deployed during the operation and only Defender operators are allowed for the remaining units"
+        ],
+        "op": "Main Theme S3-6",
+        "prof": "WARRIOR",
+        "subprof": "instructor"
+    },
+    "char_308_swire": {
+        "name": "Swire",
+        "desc": [
+            "Clear 5 operations with Swire (Swire cannot be a Support Unit); only Guard operators are allowed for the remaining units",
+            "Clear Main Theme S2-3 with a 3-star rating using a squad of at most 2 units (including Support Units); a non-Support Swire must be deployed during the operation and only Melee operators are allowed for the remaining units"
+        ],
+        "op": "Main Theme S2-3",
+        "prof": "WARRIOR",
+        "subprof": "instructor"
+    },
+    "char_130_doberm": {
+        "name": "Dobermann",
+        "desc": [
+            "Clear 5 operations with Dobermann (Dobermann cannot be a Support Unit); only 3-star operators are allowed for the remaining units",
+            "Clear Main Theme 1-12 with a 3-star rating; a non-Support Dobermann must be deployed during the operation and only 3-star operators are allowed for the remaining units"
+        ],
+        "op": "Main Theme 1-12",
+        "prof": "WARRIOR",
+        "subprof": "instructor"
+    },
+    "char_430_fartth": {
+        "name": "Fartooth",
+        "desc": [
+            "Defeat a total of 80 enemies with Fartooth (Fartooth cannot be a Support Unit)",
+            "Clear Main Theme S2-2 with a 3-star rating; a non-Support Fartooth must be deployed during the operation, and Fartooth must defeat at least 8 enemies with Feathershine Arrows"
+        ],
+        "op": "Main Theme S2-2",
+        "prof": "SNIPER",
+        "subprof": "longrange"
+    },
+    "char_158_milu": {
+        "name": "Firewatch",
+        "desc": [
+            "Defeat a total of 25 enemy ranged units with Firewatch (Firewatch cannot be a Support Unit)",
+            "Clear Main Theme 2-10 with a 3-star rating; a non-Support Firewatch must be deployed during the operation, and Firewatch must defeat Skullshatterer"
+        ],
+        "op": "Main Theme 2-10",
+        "prof": "SNIPER",
+        "subprof": "longrange"
+    },
+    "char_218_cuttle": {
+        "name": "Andreana",
+        "desc": [
+            "Deal a total of 150,000 damage with Andreana (Andreana cannot be a Support Unit)",
+            "Clear Main Theme 3-2 with a 3-star rating; a non-Support Andreana must be deployed during the operation, and Andreana must defeat at least 15 enemies"
+        ],
+        "op": "Main Theme 3-2",
+        "prof": "SNIPER",
+        "subprof": "longrange"
+    },
+    "char_302_glaze": {
+        "name": "Ambriel",
+        "desc": [
+            "Defeat a total of 30 enemies with Ambriel's Radar Sweep (Ambriel cannot be a Support Unit)",
+            "Clear Main Theme 4-7 with a 3-star rating; a non-Support Ambriel must be deployed during the operation, and Ambriel must defeat at least 6 Infused Originium Slugs"
+        ],
+        "op": "Main Theme 4-7",
+        "prof": "SNIPER",
+        "subprof": "longrange"
+    },
+    "char_179_cgbird": {
+        "name": "Nightingale",
+        "desc": [
+            "Summon a total of 10 summoned units with Nightingale (Nightingale cannot be a Support Unit)",
+            "Clear Main Theme 3-6 with a 3-star rating; a non-Support Nightingale must be deployed during the operation, and Nightingale must use Arts Shield 10 times"
+        ],
+        "op": "Main Theme 3-6",
+        "prof": "MEDIC",
+        "subprof": "ringhealer"
+    },
+    "char_128_plosis": {
+        "name": "Ptilopsis",
+        "desc": [
+            "During battle, have Ptilopsis use Enkephalin 8 times (Ptilopsis cannot be a Support Unit)",
+            "Clear Main Theme 4-9 with a 3-star rating; a non-Support Ptilopsis must be deployed during the operation, and any other Medic Operators or Defender Operators are not allowed for the remaining units"
+        ],
+        "op": "Main Theme 4-9",
+        "prof": "MEDIC",
+        "subprof": "ringhealer"
+    },
+    "char_275_breeze": {
+        "name": "Breeze",
+        "desc": [
+            "During battle, have Breeze fire a total of 50 healing rounds (Breeze cannot be a Support Unit)",
+            "Clear Main Theme 4-1 with a 3-star rating; a non-Support Breeze must be deployed during the operation, and only 7 Operators are allowed for the remaining units"
+        ],
+        "op": "Main Theme 4-1",
+        "prof": "MEDIC",
+        "subprof": "ringhealer"
+    },
+    "char_181_flower": {
+        "name": "Perfumer",
+        "desc": [
+            "Complete a total of 5 battles; In each battle, a non-Support Perfumer must be deployed once at least",
+            "Clear Main Theme 3-4 with a 3-star rating; only a non-Support Perfumer is allowed as the only Medic Operator"
+        ],
+        "op": "Main Theme 3-4",
+        "prof": "MEDIC",
+        "subprof": "ringhealer"
+    }
+}
