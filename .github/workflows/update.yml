@@ -17,8 +17,10 @@ jobs:
       with:
         python-version: '3.8'
     - run: pip install requests
-    - run: python update.py
-    - uses: stefanzweifel/git-auto-commit-action@v4.14.1
-      with:
-        commit_message: 'feat: update data'
-        file_pattern: data/*.json
+    - run: |
+        git config user.name github-actions
+        git config user.email github-actions@github.com
+    - run: |
+        chmod +x ./run.sh
+        ./run.sh zh_CN en_US ko_KR ja_JP
+    - run: git push

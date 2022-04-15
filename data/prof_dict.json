@@ -1,0 +1,42 @@
+{
+    "zh_CN": {
+        "support": "辅助",
+        "warrior": "近卫",
+        "sniper": "狙击",
+        "medic": "医疗",
+        "special": "特种",
+        "caster": "术师",
+        "pioneer": "先锋",
+        "defender": "重装"
+    },
+    "en_US": {
+        "support": "Support",
+        "warrior": "Warrior",
+        "sniper": "Sniper",
+        "medic": "Medic",
+        "special": "Special",
+        "caster": "Caster",
+        "pioneer": "Pioneer",
+        "defender": "Defender"
+    },
+    "ko_KR": {
+        "support": "서포터",
+        "warrior": "가드",
+        "sniper": "스나이퍼",
+        "medic": "메딕",
+        "special": "스페셜리스트",
+        "caster": "캐스터",
+        "pioneer": "뱅가드",
+        "defender": "디펜더"
+    },
+    "ja_JP": {
+        "support": "補助",
+        "warrior": "前衛",
+        "sniper": "狙撃",
+        "medic": "医療",
+        "special": "特殊",
+        "caster": "術師",
+        "pioneer": "先鋒",
+        "defender": "重装"
+    }
+}

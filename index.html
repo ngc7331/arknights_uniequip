@@ -9,16 +9,22 @@
     </head>
     <body>
         <div id="app">
+            <div id="select-server">
+                服务器 Server：
+                <select v-model="server" v-on:change="loadServerData()">
+                    <option v-for="(name, code) in server_list" :value="code">{{name}}</option>
+                </select>
+            </div>
             <div id="filter">
                 <div>
-                    筛选方式：
+                    筛选方式 Filter Type：
                     <select v-model="filter_type">
-                        <option value="op">作战</option>
-                        <option value="prof">职业</option>
+                        <option value="op">作战 By operation</option>
+                        <option value="prof">职业 By profession</option>
                     </select>
                     &nbsp;&nbsp;&nbsp;
-                    <button v-on:click="setFilter(true)">全选</button>
-                    <button v-on:click="setFilter(false)">全不选</button>
+                    <button v-on:click="setFilter(true)">全选 Select all</button>
+                    <button v-on:click="setFilter(false)">全不选 Select None</button>
                 </div>
                 <div v-if="filter_type == 'op'">
                     <div class="option" v-for="op in ops">
@@ -42,6 +48,9 @@
                     <td>{{char.desc[1]}}</td>
                 </tr>
             </table>
+            <div id="error">
+                <h2>{{errormsg}}</h2>
+            </div>
         </div>
         <script src="js/app.js"></script>
     </body>
