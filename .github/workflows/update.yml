@@ -1,0 +1,23 @@
+name: update-data
+on:
+  schedule:
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  run:
+    name: update-data
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-python@v3
+      with:
+        python-version: '3.8'
+    - run: python update.py
+    - uses: stefanzweifel/git-auto-commit-action@v4.14.1
+      with:
+        commit_message: 'feat: update data'
+        file_pattern: data/*.json
