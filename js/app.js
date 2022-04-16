@@ -9,6 +9,8 @@ Vue.createApp({
             server: "zh_CN",
             server_list: {},
             errormsg: "",
+            progress: [{}, {}],
+            progress_key: "arknights_uniequip_progress",
         }
     },
     computed: {
@@ -18,16 +20,19 @@ Vue.createApp({
             for (var key in this.data) {
                 var item = this.data[key];
                 if (
-                    this.filter_type=="op" && this.ops[item['op']].show ||
-                    this.filter_type=="prof" && this.profs[item['prof']].sub[item['subprof']].show
+                    this.filter_type=="op" && this.ops[item["op"]].show ||
+                    this.filter_type=="prof" && this.profs[item["prof"]].sub[item["subprof"]].show
                 ) { data[key] = this.data[key]; }
             }
             return data;
         }
     },
     mounted () {
-        this.loadData(this.server_list, 'data/server.json');
-        this.loadServerData();
+        let app = this;
+        app.loadData(app.server_list, "data/server.json");
+        app.loadServerData();
+        app.loadItem(app.progress_key, app.progress);
+        window.onbeforeunload = function() {app.saveItem(app.progress_key, app.progress)};
     },
     methods: {
         loadServerData: async function() {
@@ -36,9 +41,9 @@ Vue.createApp({
                 this.errormsg = "[ERROR] zh_TW 暂未实装模组功能"
                 return;
             }
-            await this.loadData(this.data, 'data/'+this.server+'/data.json');
-            await this.loadData(this.ops, 'data/'+this.server+'/ops.json');
-            await this.loadData(this.profs, 'data/'+this.server+'/profs.json');
+            await this.loadData(this.data, "data/"+this.server+"/data.json");
+            await this.loadData(this.ops, "data/"+this.server+"/ops.json");
+            await this.loadData(this.profs, "data/"+this.server+"/profs.json");
             this.setFilter(true);
             this.ready = true;
         },
@@ -50,15 +55,13 @@ Vue.createApp({
             this.errormsg = "";
         },
         loadData: function(target, url) {
-            console.log('load data from ' + url);
+            console.log("load data from " + url);
             return new Promise((resolve, reject)=>{
                 axios.get(url)
                     .then(response => {
-                        for (var key in response.data) {
-                            target[key] = response.data[key];
-                        }
+                        this.copyObject(response.data, target);
                         console.log(target);
-                        resolve()
+                        resolve();
                     })
                     .catch(function (error) { console.log(error); reject(); });
             })
@@ -72,6 +75,23 @@ Vue.createApp({
                     this.profs[key].sub[skey].show = s;
                 }
             }
+        },
+        clearProgress: function() {
+            this.progress = [{}, {}];
+        },
+        loadItem: function(key, target) {
+            var item = localStorage.getItem(key);
+            if (item !== null) {
+                this.copyObject(JSON.parse(item), target);
+            }
+        },
+        saveItem: function(key, target) {
+            localStorage.setItem(key, JSON.stringify(target));
+        },
+        copyObject: function(from, to) {
+            for (var key in from) {
+                to[key] = from[key];
+            }
         }
     }
-}).mount('#app')
+}).mount("#app");

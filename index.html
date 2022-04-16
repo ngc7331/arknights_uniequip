@@ -17,14 +17,17 @@
             </div>
             <div id="filter">
                 <div>
-                    筛选方式 Filter Type：
+                    筛选方式 Filter：
                     <select v-model="filter_type">
                         <option value="op">作战 By operation</option>
                         <option value="prof">职业 By profession</option>
                     </select>
                     &nbsp;&nbsp;&nbsp;
                     <button v-on:click="setFilter(true)">全选 Select all</button>
-                    <button v-on:click="setFilter(false)">全不选 Select None</button>
+                    <button v-on:click="setFilter(false)">全不选 Select none</button>
+                </div>
+                <div>
+                    <button v-on:click="clearProgress">清除进度 Clear progress</button>
                 </div>
                 <div v-if="filter_type == 'op'">
                     <div class="option" v-for="op in ops">
@@ -41,11 +44,11 @@
                 </div>
             </div>
             <table id="data" width="100%">
-                <tr><th width="10%">角色</th><th width="40%">任务1</th><th width="50%">任务2</th></tr>
-                <tr v-for="char in filtered_data">
+                <tr><th width="10%">角色 Operator</th><th width="40%">任务 Mission 1</th><th width="50%">任务 Mission 2</th></tr>
+                <tr v-for="(char, code) in filtered_data">
                     <td>{{char.name}}</td>
-                    <td>{{char.desc[0]}}</td>
-                    <td>{{char.desc[1]}}</td>
+                    <td><input type="checkbox" v-model="progress[0][code]">{{char.desc[0]}}</td>
+                    <td><input type="checkbox" v-model="progress[1][code]">{{char.desc[1]}}</td>
                 </tr>
             </table>
             <div id="error">
