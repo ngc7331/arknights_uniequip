@@ -30,5 +30,21 @@
                 "name": "群癒師"
             }
         }
+    },
+    "SPECIAL": {
+        "name": "特殊",
+        "sub": {
+            "executor": {
+                "name": "執行者"
+            }
+        }
+    },
+    "CASTER": {
+        "name": "術師",
+        "sub": {
+            "chain": {
+                "name": "連鎖術師"
+            }
+        }
     }
 }
