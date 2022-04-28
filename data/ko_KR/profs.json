@@ -30,5 +30,21 @@
                 "name": "멀티 타겟 메딕"
             }
         }
+    },
+    "SPECIAL": {
+        "name": "스페셜리스트",
+        "sub": {
+            "executor": {
+                "name": "처형자"
+            }
+        }
+    },
+    "CASTER": {
+        "name": "캐스터",
+        "sub": {
+            "chain": {
+                "name": "체인 캐스터"
+            }
+        }
     }
 }
