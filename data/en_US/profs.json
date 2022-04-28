@@ -30,5 +30,21 @@
                 "name": "Multi-target Medic"
             }
         }
+    },
+    "SPECIAL": {
+        "name": "Special",
+        "sub": {
+            "executor": {
+                "name": "Executor"
+            }
+        }
+    },
+    "CASTER": {
+        "name": "Caster",
+        "sub": {
+            "chain": {
+                "name": "Chain Caster"
+            }
+        }
     }
 }

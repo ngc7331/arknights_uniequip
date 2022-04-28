@@ -158,5 +158,85 @@
         "op": "Main Theme 3-4",
         "prof": "MEDIC",
         "subprof": "ringhealer"
+    },
+    "char_250_phatom": {
+        "name": "Phantom",
+        "desc": [
+            "Defeat a total of 70 enemies with Phantom (Phantom cannot be a Support Unit)",
+            "Clear Main Theme 3-6 with a 3-star rating; You must deploy your own Phantom, and have Phantom defeat at least 6 Invisible Casters"
+        ],
+        "op": "Main Theme 3-6",
+        "prof": "SPECIAL",
+        "subprof": "executor"
+    },
+    "char_214_kafka": {
+        "name": "Kafka",
+        "desc": [
+            "Defeat a total of 50 enemies with Kafka's skills (Kafka cannot be a Support Unit)",
+            "Clear Main Theme 2-7 with a 3-star rating; You must deploy your own Kafka, and have Kafka's skills defeat at least 10 enemies"
+        ],
+        "op": "Main Theme 2-7",
+        "prof": "SPECIAL",
+        "subprof": "executor"
+    },
+    "char_144_red": {
+        "name": "Projekt Red",
+        "desc": [
+            "Complete a total of 5 battles; In each battle, you must deploy your own Projekt Red at least 3 times",
+            "Clear Main Theme S4-5 with a 3-star rating; You must deploy your own Projekt Red, and have Projekt Red defeat at least 4 Infused Originium Slugs"
+        ],
+        "op": "Main Theme S4-5",
+        "prof": "SPECIAL",
+        "subprof": "executor"
+    },
+    "char_243_waaifu": {
+        "name": "Waai Fu",
+        "desc": [
+            "Defeat a total of 50 Infected Creatures with Waai Fu's skill Seven-styles Kick (Waai Fu cannot be a Support Unit)",
+            "Clear Main Theme 4-7 with a 3-star rating; You must deploy your own Waai Fu, and only 6 other Operators are allowed for the remaining units"
+        ],
+        "op": "Main Theme 4-7",
+        "prof": "SPECIAL",
+        "subprof": "executor"
+    },
+    "char_237_gravel": {
+        "name": "Gravel",
+        "desc": [
+            "Complete a total of 5 battles; In each battle, you must deploy your own Gravel at least 4 times",
+            "Clear Main Theme 4-8 with a 3-star rating; You must deploy your own Gravel, and allow no Operators to be defeated"
+        ],
+        "op": "Main Theme 4-8",
+        "prof": "SPECIAL",
+        "subprof": "executor"
+    },
+    "char_472_pasngr": {
+        "name": "Passenger",
+        "desc": [
+            "During battle, have Passenger use Glorious Shards a total of 30 times (Passenger cannot be a Support Unit)",
+            "Clear Main Theme 2-2 with a 3-star rating; You must deploy your own Passenger, and only Vanguard and Defender Operators are allowed for the remaining units"
+        ],
+        "op": "Main Theme 2-2",
+        "prof": "CASTER",
+        "subprof": "chain"
+    },
+    "char_306_leizi": {
+        "name": "Leizi",
+        "desc": [
+            "Defeat a total of 50 enemies with Leizi's skill Thunderclap (Leizi cannot be a Support Unit)",
+            "Clear Main Theme S3-6 with a 3-star rating; You must deploy your own Leizi, and have Leizi defeat at least 1 Butcher"
+        ],
+        "op": "Main Theme S3-6",
+        "prof": "CASTER",
+        "subprof": "chain"
+    },
+    "char_4004_pudd": {
+        "name": "Pudding",
+        "desc": [
+            "Deal a total of 150,000 damage with Pudding (Pudding cannot be a Support Unit)",
+            "Clear Main Theme 2-10 with a 3-star rating; You must deploy your own Pudding, and have Pudding's skill Diffusion Current defeat at least 2 Heavy Defenders"
+        ],
+        "op": "Main Theme 2-10",
+        "prof": "CASTER",
+        "subprof": "chain"
     }
 }
