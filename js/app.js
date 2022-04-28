@@ -11,6 +11,8 @@ Vue.createApp({
             errormsg: "",
             progress: [{}, {}],
             progress_key: "arknights_uniequip_progress",
+            clear_confirm: 3,
+            clear_timeout: null,
         }
     },
     computed: {
@@ -77,7 +79,17 @@ Vue.createApp({
             }
         },
         clearProgress: function() {
-            this.progress = [{}, {}];
+            let app = this;
+            app.clear_confirm --;
+            if (app.clear_timeout !== null) {
+                clearTimeout(app.clear_timeout);
+            }
+            if (app.clear_confirm === 0) {
+                app.progress = [{}, {}];
+                app.clear_confirm = 3;
+                clearTimeout(app.clear_timeout);
+            }
+            app.clear_timeout = setTimeout(function(){app.clear_confirm = 3;}, 2000);
         },
         loadItem: function(key, target) {
             var item = localStorage.getItem(key);

@@ -27,7 +27,7 @@
                     <button v-on:click="setFilter(false)">全不选 Select none</button>
                 </div>
                 <div>
-                    <button v-on:click="clearProgress">清除进度 Clear progress</button>
+                    清除进度 Clear progress<button v-on:click="clearProgress">点击{{clear_confirm}}次 Click here {{clear_confirm}} times</button>
                 </div>
                 <div v-if="filter_type == 'op'">
                     <div class="option" v-for="op in ops">
