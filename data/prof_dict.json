@@ -7,7 +7,7 @@
         "special": "特种",
         "caster": "术师",
         "pioneer": "先锋",
-        "defender": "重装"
+        "tank": "重装"
     },
     "en_US": {
         "support": "Support",
@@ -17,7 +17,7 @@
         "special": "Special",
         "caster": "Caster",
         "pioneer": "Pioneer",
-        "defender": "Defender"
+        "tank": "Defender"
     },
     "ko_KR": {
         "support": "서포터",
@@ -27,7 +27,7 @@
         "special": "스페셜리스트",
         "caster": "캐스터",
         "pioneer": "뱅가드",
-        "defender": "디펜더"
+        "tank": "디펜더"
     },
     "ja_JP": {
         "support": "補助",
@@ -37,6 +37,6 @@
         "special": "特殊",
         "caster": "術師",
         "pioneer": "先鋒",
-        "defender": "重装"
+        "tank": "重装"
     }
 }
