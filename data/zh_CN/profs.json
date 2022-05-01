@@ -43,6 +43,9 @@
         "sub": {
             "ringhealer": {
                 "name": "群愈师"
+            },
+            "healer": {
+                "name": "疗养师"
             }
         }
     },
@@ -54,6 +57,9 @@
             },
             "merchant": {
                 "name": "行商"
+            },
+            "dollkeeper": {
+                "name": "傀儡师"
             }
         }
     },
@@ -73,6 +79,14 @@
         "sub": {
             "charger": {
                 "name": "冲锋手"
+            }
+        }
+    },
+    "TANK": {
+        "name": "重装",
+        "sub": {
+            "duelist": {
+                "name": "决战者"
             }
         }
     }
