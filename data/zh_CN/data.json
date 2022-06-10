@@ -1,5 +1,5 @@
 {
-    "char_248_mgllan": {
+    "char_248_mgllan_1": {
         "name": "麦哲伦",
         "desc": [
             "完成5次战斗；每次战斗至少召唤5回非助战麦哲伦的召唤物",
@@ -9,7 +9,7 @@
         "prof": "SUPPORT",
         "subprof": "summoner"
     },
-    "char_336_folivo": {
+    "char_336_folivo_1": {
         "name": "稀音",
         "desc": [
             "完成5次战斗；每次战斗至少召唤5回非助战稀音的召唤物",
@@ -19,7 +19,7 @@
         "prof": "SUPPORT",
         "subprof": "summoner"
     },
-    "char_242_otter": {
+    "char_242_otter_1": {
         "name": "梅尔",
         "desc": [
             "完成5次战斗；每次战斗至少召唤5回非助战梅尔的召唤物",
@@ -29,7 +29,7 @@
         "prof": "SUPPORT",
         "subprof": "summoner"
     },
-    "char_110_deepcl": {
+    "char_110_deepcl_1": {
         "name": "深海色",
         "desc": [
             "战斗中累计召唤非助战深海色的召唤物20回",
@@ -39,7 +39,7 @@
         "prof": "SUPPORT",
         "subprof": "summoner"
     },
-    "char_485_pallas": {
+    "char_485_pallas_1": {
         "name": "帕拉斯",
         "desc": [
             "由非助战帕拉斯累计造成50歼灭数",
@@ -49,7 +49,7 @@
         "prof": "WARRIOR",
         "subprof": "instructor"
     },
-    "char_265_sophia": {
+    "char_265_sophia_1": {
         "name": "鞭刃",
         "desc": [
             "由非助战鞭刃累计造成50歼灭数",
@@ -59,7 +59,7 @@
         "prof": "WARRIOR",
         "subprof": "instructor"
     },
-    "char_308_swire": {
+    "char_308_swire_1": {
         "name": "诗怀雅",
         "desc": [
             "非助战诗怀雅上场完成5次战斗；其他成员仅可编入近卫干员",
@@ -69,7 +69,7 @@
         "prof": "WARRIOR",
         "subprof": "instructor"
     },
-    "char_130_doberm": {
+    "char_130_doberm_1": {
         "name": "杜宾",
         "desc": [
             "非助战杜宾上场完成5次战斗；队伍中除杜宾外，其他成员仅可编入3星干员",
@@ -79,7 +79,7 @@
         "prof": "WARRIOR",
         "subprof": "instructor"
     },
-    "char_430_fartth": {
+    "char_430_fartth_1": {
         "name": "远牙",
         "desc": [
             "由非助战远牙累计造成80歼灭数",
@@ -89,7 +89,7 @@
         "prof": "SNIPER",
         "subprof": "longrange"
     },
-    "char_158_milu": {
+    "char_158_milu_1": {
         "name": "守林人",
         "desc": [
             "由非助战守林人累计歼灭25名使用远程武器的敌人",
@@ -99,7 +99,7 @@
         "prof": "SNIPER",
         "subprof": "longrange"
     },
-    "char_218_cuttle": {
+    "char_218_cuttle_1": {
         "name": "安哲拉",
         "desc": [
             "由非助战安哲拉累计造成150000点伤害",
@@ -109,7 +109,7 @@
         "prof": "SNIPER",
         "subprof": "longrange"
     },
-    "char_302_glaze": {
+    "char_302_glaze_1": {
         "name": "安比尔",
         "desc": [
             "由非助战安比尔使用雷达定位累计歼灭30名敌人",
@@ -119,7 +119,7 @@
         "prof": "SNIPER",
         "subprof": "longrange"
     },
-    "char_179_cgbird": {
+    "char_179_cgbird_1": {
         "name": "夜莺",
         "desc": [
             "战斗中累计召唤非助战夜莺的召唤物10回",
@@ -129,7 +129,7 @@
         "prof": "MEDIC",
         "subprof": "ringhealer"
     },
-    "char_128_plosis": {
+    "char_128_plosis_1": {
         "name": "白面鸮",
         "desc": [
             "战斗中非助战白面鸮累计使用脑啡肽8次",
@@ -139,7 +139,7 @@
         "prof": "MEDIC",
         "subprof": "ringhealer"
     },
-    "char_275_breeze": {
+    "char_275_breeze_1": {
         "name": "微风",
         "desc": [
             "战斗中非助战微风累计发射50枚医疗弹",
@@ -149,7 +149,7 @@
         "prof": "MEDIC",
         "subprof": "ringhealer"
     },
-    "char_181_flower": {
+    "char_181_flower_1": {
         "name": "调香师",
         "desc": [
             "完成5次战斗；每次战斗中至少部署1次非助战调香师",
@@ -159,7 +159,7 @@
         "prof": "MEDIC",
         "subprof": "ringhealer"
     },
-    "char_250_phatom": {
+    "char_250_phatom_1": {
         "name": "傀影",
         "desc": [
             "由非助战傀影累计造成70歼灭数",
@@ -169,7 +169,7 @@
         "prof": "SPECIAL",
         "subprof": "executor"
     },
-    "char_214_kafka": {
+    "char_214_kafka_1": {
         "name": "卡夫卡",
         "desc": [
             "由非助战卡夫卡使用技能累计歼灭50名敌人",
@@ -179,7 +179,7 @@
         "prof": "SPECIAL",
         "subprof": "executor"
     },
-    "char_144_red": {
+    "char_144_red_1": {
         "name": "红",
         "desc": [
             "完成5次战斗；每次战斗至少部署3次非助战的红",
@@ -189,7 +189,7 @@
         "prof": "SPECIAL",
         "subprof": "executor"
     },
-    "char_243_waaifu": {
+    "char_243_waaifu_1": {
         "name": "槐琥",
         "desc": [
             "由非助战槐琥使用技能七武掠阵踢累计歼灭50只感染生物",
@@ -199,7 +199,7 @@
         "prof": "SPECIAL",
         "subprof": "executor"
     },
-    "char_237_gravel": {
+    "char_237_gravel_1": {
         "name": "砾",
         "desc": [
             "完成5次战斗；每次战斗至少部署4次非助战的砾",
@@ -209,7 +209,7 @@
         "prof": "SPECIAL",
         "subprof": "executor"
     },
-    "char_472_pasngr": {
+    "char_472_pasngr_1": {
         "name": "异客",
         "desc": [
             "战斗中非助战异客累计使用辉煌裂片30次",
@@ -219,7 +219,17 @@
         "prof": "CASTER",
         "subprof": "chain"
     },
-    "char_306_leizi": {
+    "char_472_pasngr_2": {
+        "name": "异客",
+        "desc": [
+            "完成5次战斗；必须编入非助战异客并上场，且使用异客造成至少30000点伤害",
+            "3星通关主题曲5-10；必须编入非助战异客并上场，且使用异客歼灭至少2个粉碎攻坚手"
+        ],
+        "op": "主题曲5-10",
+        "prof": "CASTER",
+        "subprof": "chain"
+    },
+    "char_306_leizi_1": {
         "name": "惊蛰",
         "desc": [
             "由非助战惊蛰使用技能初雷累计歼灭50名敌人",
@@ -229,7 +239,7 @@
         "prof": "CASTER",
         "subprof": "chain"
     },
-    "char_4004_pudd": {
+    "char_4004_pudd_1": {
         "name": "布丁",
         "desc": [
             "由非助战布丁累计造成150000点伤害",
@@ -239,7 +249,7 @@
         "prof": "CASTER",
         "subprof": "chain"
     },
-    "char_010_chen": {
+    "char_010_chen_1": {
         "name": "陈",
         "desc": [
             "完成5次战斗；必须编入非助战陈并上场，且每次战斗至少释放一次赤霄·拔刀或赤霄·绝影",
@@ -249,7 +259,7 @@
         "prof": "WARRIOR",
         "subprof": "sword"
     },
-    "char_459_tachak": {
+    "char_459_tachak_1": {
         "name": "战车",
         "desc": [
             "由非助战战车累计造成150000点伤害",
@@ -259,7 +269,7 @@
         "prof": "WARRIOR",
         "subprof": "sword"
     },
-    "char_252_bibeak": {
+    "char_252_bibeak_1": {
         "name": "柏喙",
         "desc": [
             "战斗中非助战柏喙累计使用异刃斩16次",
@@ -269,7 +279,7 @@
         "prof": "WARRIOR",
         "subprof": "sword"
     },
-    "char_301_cutter": {
+    "char_301_cutter_1": {
         "name": "刻刀",
         "desc": [
             "完成5次战斗；必须编入非助战刻刀并上场，且每次战斗刻刀至少歼灭3个无人机敌人",
@@ -279,7 +289,7 @@
         "prof": "WARRIOR",
         "subprof": "sword"
     },
-    "char_222_bpipe": {
+    "char_222_bpipe_1": {
         "name": "风笛",
         "desc": [
             "由非助战风笛累计造成80歼灭数",
@@ -289,7 +299,7 @@
         "prof": "PIONEER",
         "subprof": "charger"
     },
-    "char_220_grani": {
+    "char_220_grani_1": {
         "name": "格拉尼",
         "desc": [
             "完成5次战斗；必须编入非助战格拉尼，并确定第一位部署的干员是格拉尼",
@@ -299,7 +309,7 @@
         "prof": "PIONEER",
         "subprof": "charger"
     },
-    "char_496_wildmn": {
+    "char_496_wildmn_1": {
         "name": "野鬃",
         "desc": [
             "完成5次战斗；必须编入非助战野鬃，并确定第一位部署的干员是野鬃",
@@ -309,7 +319,7 @@
         "prof": "PIONEER",
         "subprof": "charger"
     },
-    "char_261_sddrag": {
+    "char_261_sddrag_1": {
         "name": "苇草",
         "desc": [
             "由非助战苇草累计造成70歼灭数",
@@ -319,7 +329,7 @@
         "prof": "PIONEER",
         "subprof": "charger"
     },
-    "char_290_vigna": {
+    "char_290_vigna_1": {
         "name": "红豆",
         "desc": [
             "完成5次战斗；必须编入非助战红豆，并确定第一位部署的干员是红豆",
@@ -329,7 +339,7 @@
         "prof": "PIONEER",
         "subprof": "charger"
     },
-    "char_1014_nearl2": {
+    "char_1014_nearl2_1": {
         "name": "耀骑士临光",
         "desc": [
             "由非助战耀骑士临光累计造成100歼灭数",
@@ -339,7 +349,7 @@
         "prof": "WARRIOR",
         "subprof": "fearless"
     },
-    "char_263_skadi": {
+    "char_263_skadi_1": {
         "name": "斯卡蒂",
         "desc": [
             "完成5次战斗；必须编入非助战斯卡蒂并上场，且使用斯卡蒂歼灭至少5个敌人",
@@ -349,7 +359,17 @@
         "prof": "WARRIOR",
         "subprof": "fearless"
     },
-    "char_131_flameb": {
+    "char_263_skadi_2": {
+        "name": "斯卡蒂",
+        "desc": [
+            "由非助战斯卡蒂累计造成30歼灭数",
+            "3星通关别传GT-4；必须编入非助战斯卡蒂并上场，且使用斯卡蒂歼灭至少2个伐木机"
+        ],
+        "op": "别传GT-4",
+        "prof": "WARRIOR",
+        "subprof": "fearless"
+    },
+    "char_131_flameb_1": {
         "name": "炎客",
         "desc": [
             "完成5次战斗；必须编入非助战炎客并上场，且使用炎客发动至少1次刃鬼",
@@ -359,7 +379,7 @@
         "prof": "WARRIOR",
         "subprof": "fearless"
     },
-    "char_106_franka": {
+    "char_106_franka_1": {
         "name": "芙兰卡",
         "desc": [
             "完成5次战斗；必须编入非助战芙兰卡并上场，且使用芙兰卡造成至少18000点伤害",
@@ -369,7 +389,7 @@
         "prof": "WARRIOR",
         "subprof": "fearless"
     },
-    "char_159_peacok": {
+    "char_159_peacok_1": {
         "name": "断罪者",
         "desc": [
             "完成5次战斗；必须编入非助战断罪者并上场，且使用断罪者造成至少15000点伤害",
@@ -379,7 +399,7 @@
         "prof": "WARRIOR",
         "subprof": "fearless"
     },
-    "char_289_gyuki": {
+    "char_289_gyuki_1": {
         "name": "缠丸",
         "desc": [
             "完成5次战斗；必须编入非助战缠丸并上场，且使用缠丸造成至少15000点伤害",
@@ -389,7 +409,7 @@
         "prof": "WARRIOR",
         "subprof": "fearless"
     },
-    "char_455_nothin": {
+    "char_455_nothin_1": {
         "name": "乌有",
         "desc": [
             "完成5次战斗；必须编入非助战乌有并部署至少2次，且使用乌有歼灭至少4名敌人",
@@ -399,7 +419,7 @@
         "prof": "SPECIAL",
         "subprof": "merchant"
     },
-    "char_272_strong": {
+    "char_272_strong_1": {
         "name": "孑",
         "desc": [
             "完成5次战斗；必须编入非助战孑并部署至少2次，且使用孑歼灭至少3名敌人",
@@ -409,7 +429,7 @@
         "prof": "SPECIAL",
         "subprof": "merchant"
     },
-    "char_322_lmlee": {
+    "char_322_lmlee_1": {
         "name": "老鲤",
         "desc": [
             "由非助战老鲤累计造成80歼灭数",
@@ -419,7 +439,7 @@
         "prof": "SPECIAL",
         "subprof": "merchant"
     },
-    "char_2023_ling": {
+    "char_2023_ling_1": {
         "name": "令",
         "desc": [
             "完成5次战斗；必须编入非助战令并上场，且使用令与令的召唤物歼灭至少7名敌人",
@@ -429,7 +449,7 @@
         "prof": "SUPPORT",
         "subprof": "summoner"
     },
-    "char_113_cqbw": {
+    "char_113_cqbw_1": {
         "name": "W",
         "desc": [
             "由非助战W累计造成80歼灭数",
@@ -439,7 +459,7 @@
         "prof": "SNIPER",
         "subprof": "aoesniper"
     },
-    "char_300_phenxi": {
+    "char_300_phenxi_1": {
         "name": "菲亚梅塔",
         "desc": [
             "由非助战菲亚梅塔累计造成180000点伤害",
@@ -449,7 +469,7 @@
         "prof": "SNIPER",
         "subprof": "aoesniper"
     },
-    "char_219_meteo": {
+    "char_219_meteo_1": {
         "name": "陨星",
         "desc": [
             "完成5次战斗；必须编入非助战陨星并上场，且使用陨星歼灭至少10名敌人",
@@ -459,7 +479,7 @@
         "prof": "SNIPER",
         "subprof": "aoesniper"
     },
-    "char_379_sesa": {
+    "char_379_sesa_1": {
         "name": "慑砂",
         "desc": [
             "完成5次战斗；必须编入非助战慑砂并上场，且使用慑砂造成至少25000点伤害",
@@ -469,7 +489,7 @@
         "prof": "SNIPER",
         "subprof": "aoesniper"
     },
-    "char_118_yuki": {
+    "char_118_yuki_1": {
         "name": "白雪",
         "desc": [
             "由非助战白雪累计造成120000点伤害",
@@ -479,7 +499,7 @@
         "prof": "SNIPER",
         "subprof": "aoesniper"
     },
-    "char_2015_dusk": {
+    "char_2015_dusk_1": {
         "name": "夕",
         "desc": [
             "战斗中累计召唤非助战夕的召唤物20回",
@@ -489,7 +509,7 @@
         "prof": "CASTER",
         "subprof": "splashcaster"
     },
-    "char_213_mostma": {
+    "char_213_mostma_1": {
         "name": "莫斯提马",
         "desc": [
             "由非助战莫斯提马累计造成100歼灭数",
@@ -499,7 +519,7 @@
         "prof": "CASTER",
         "subprof": "splashcaster"
     },
-    "char_1011_lava2": {
+    "char_1011_lava2_1": {
         "name": "炎狱炎熔",
         "desc": [
             "由非助战炎狱炎熔累计造成80歼灭数",
@@ -509,7 +529,7 @@
         "prof": "CASTER",
         "subprof": "splashcaster"
     },
-    "char_166_skfire": {
+    "char_166_skfire_1": {
         "name": "天火",
         "desc": [
             "完成5次战斗；必须编入非助战天火并上场，且每次战斗至少释放一次天坠之火",
@@ -519,7 +539,7 @@
         "prof": "CASTER",
         "subprof": "splashcaster"
     },
-    "char_373_lionhd": {
+    "char_373_lionhd_1": {
         "name": "莱恩哈特",
         "desc": [
             "完成5次战斗；必须编入非助战莱恩哈特并上场，且每次战斗至少释放4次解构与爆破",
@@ -529,7 +549,7 @@
         "prof": "CASTER",
         "subprof": "splashcaster"
     },
-    "char_109_fmout": {
+    "char_109_fmout_1": {
         "name": "远山",
         "desc": [
             "完成5次战斗；必须编入非助战远山并上场，且使用远山歼灭至少8名敌人",
@@ -539,7 +559,7 @@
         "prof": "CASTER",
         "subprof": "splashcaster"
     },
-    "char_253_greyy": {
+    "char_253_greyy_1": {
         "name": "格雷伊",
         "desc": [
             "完成5次战斗；必须编入非助战格雷伊并上场，且使用格雷伊歼灭至少8名敌人",
@@ -549,7 +569,7 @@
         "prof": "CASTER",
         "subprof": "splashcaster"
     },
-    "char_340_shwaz": {
+    "char_340_shwaz_1": {
         "name": "黑",
         "desc": [
             "完成5次战斗；必须编入非助战黑并上场，且每次战斗至少释放2次战术的终结",
@@ -559,7 +579,7 @@
         "prof": "SNIPER",
         "subprof": "closerange"
     },
-    "char_145_prove": {
+    "char_145_prove_1": {
         "name": "普罗旺斯",
         "desc": [
             "完成5次战斗；必须编入非助战普罗旺斯并上场，且使用普罗旺斯歼灭至少5名敌人",
@@ -569,7 +589,7 @@
         "prof": "SNIPER",
         "subprof": "closerange"
     },
-    "char_366_acdrop": {
+    "char_366_acdrop_1": {
         "name": "酸糖",
         "desc": [
             "由非助战酸糖累计造成50歼灭数",
@@ -579,7 +599,7 @@
         "prof": "SNIPER",
         "subprof": "closerange"
     },
-    "char_358_lisa": {
+    "char_358_lisa_1": {
         "name": "铃兰",
         "desc": [
             "战斗中非助战铃兰累计使用狐火渺然6次",
@@ -589,7 +609,7 @@
         "prof": "SUPPORT",
         "subprof": "slower"
     },
-    "char_291_aglina": {
+    "char_291_aglina_1": {
         "name": "安洁莉娜",
         "desc": [
             "完成5次战斗；必须编入非助战安洁莉娜并上场，且使用安洁莉娜歼灭至少7名敌人",
@@ -599,7 +619,7 @@
         "prof": "SUPPORT",
         "subprof": "slower"
     },
-    "char_326_glacus": {
+    "char_326_glacus_1": {
         "name": "格劳克斯",
         "desc": [
             "由非助战格劳克斯累计歼灭20个无人机敌人",
@@ -609,7 +629,7 @@
         "prof": "SUPPORT",
         "subprof": "slower"
     },
-    "char_195_glassb": {
+    "char_195_glassb_1": {
         "name": "真理",
         "desc": [
             "完成5次战斗；必须编入非助战真理并上场，且使用真理造成至少25000点伤害",
@@ -619,7 +639,7 @@
         "prof": "SUPPORT",
         "subprof": "slower"
     },
-    "char_258_podego": {
+    "char_258_podego_1": {
         "name": "波登可",
         "desc": [
             "完成5次战斗；必须编入非助战波登可并上场，且每次战斗至少释放2次孢子扩散",
@@ -629,7 +649,7 @@
         "prof": "SUPPORT",
         "subprof": "slower"
     },
-    "char_183_skgoat": {
+    "char_183_skgoat_1": {
         "name": "地灵",
         "desc": [
             "由非助战地灵累计使用流沙化6次",
@@ -639,7 +659,7 @@
         "prof": "SUPPORT",
         "subprof": "slower"
     },
-    "char_1023_ghost2": {
+    "char_1023_ghost2_1": {
         "name": "归溟幽灵鲨",
         "desc": [
             "由非助战归溟幽灵鲨累计造成30歼灭数",
@@ -649,7 +669,7 @@
         "prof": "SPECIAL",
         "subprof": "dollkeeper"
     },
-    "char_369_bena": {
+    "char_369_bena_1": {
         "name": "贝娜",
         "desc": [
             "完成5次战斗；必须编入非助战贝娜并上场，且每次战斗至少释放1次快速修剪",
@@ -659,7 +679,7 @@
         "prof": "SPECIAL",
         "subprof": "dollkeeper"
     },
-    "char_4016_kazema": {
+    "char_4016_kazema_1": {
         "name": "风丸",
         "desc": [
             "由非助战风丸累计使用纸艺·双影10次",
@@ -669,7 +689,7 @@
         "prof": "SPECIAL",
         "subprof": "dollkeeper"
     },
-    "char_4042_lumen": {
+    "char_4042_lumen_1": {
         "name": "流明",
         "desc": [
             "完成5次战斗；必须编入非助战流明并上场，且每次战斗至少释放2次灯火不灭",
@@ -679,7 +699,7 @@
         "prof": "MEDIC",
         "subprof": "healer"
     },
-    "char_348_ceylon": {
+    "char_348_ceylon_1": {
         "name": "锡兰",
         "desc": [
             "由非助战锡兰累计使用水灵庇护3次",
@@ -689,7 +709,7 @@
         "prof": "MEDIC",
         "subprof": "healer"
     },
-    "char_436_whispr": {
+    "char_436_whispr_1": {
         "name": "絮雨",
         "desc": [
             "完成5次战斗；必须编入非助战絮雨并上场，且每次战斗至少释放1次痛觉抑制",
@@ -699,7 +719,7 @@
         "prof": "MEDIC",
         "subprof": "healer"
     },
-    "char_385_finlpp": {
+    "char_385_finlpp_1": {
         "name": "清流",
         "desc": [
             "由非助战清流累计使用涌泉5次",
@@ -709,7 +729,7 @@
         "prof": "MEDIC",
         "subprof": "healer"
     },
-    "char_416_zumama": {
+    "char_416_zumama_1": {
         "name": "森蚺",
         "desc": [
             "由非助战森蚺累计造成60000点伤害",
@@ -719,7 +739,7 @@
         "prof": "TANK",
         "subprof": "duelist"
     },
-    "char_422_aurora": {
+    "char_422_aurora_1": {
         "name": "极光",
         "desc": [
             "由非助战极光累计造成40000点伤害",
@@ -729,7 +749,7 @@
         "prof": "TANK",
         "subprof": "duelist"
     },
-    "char_4009_irene": {
+    "char_4009_irene_1": {
         "name": "艾丽妮",
         "desc": [
             "由非助战艾丽妮使用技能累计造成50歼灭数",
@@ -738,5 +758,85 @@
         "op": "插曲SV-4",
         "prof": "WARRIOR",
         "subprof": "sword"
+    },
+    "char_4046_ebnhlz_1": {
+        "name": "黑键",
+        "desc": [
+            "由非助战黑键累计歼灭10个精英或领袖敌人",
+            "3星通关主题曲3-7；必须编入非助战黑键并上场，且使用黑键歼灭至少1个重装防御组长"
+        ],
+        "op": "主题曲3-7",
+        "prof": "CASTER",
+        "subprof": "mystic"
+    },
+    "char_338_iris_1": {
+        "name": "爱丽丝",
+        "desc": [
+            "由非助战爱丽丝累计造成30歼灭数",
+            "3星通关主题曲2-2；必须编入非助战爱丽丝并上场，且使用爱丽丝歼灭至少2个重装防御者"
+        ],
+        "op": "主题曲2-2",
+        "prof": "CASTER",
+        "subprof": "mystic"
+    },
+    "char_469_indigo_1": {
+        "name": "深靛",
+        "desc": [
+            "由非助战深靛累计造成60000点伤害",
+            "3星通关插曲SV-5；必须编入非助战深靛并上场，且使用2次光影迷宫"
+        ],
+        "op": "插曲SV-5",
+        "prof": "CASTER",
+        "subprof": "mystic"
+    },
+    "char_202_demkni_1": {
+        "name": "塞雷娅",
+        "desc": [
+            "战斗中非助战塞雷娅累计使用钙质化5次",
+            "3星通关别传MB-3；必须编入非助战塞雷娅并上场，且所有干员不被击倒"
+        ],
+        "op": "别传MB-3",
+        "prof": "TANK",
+        "subprof": "guardian"
+    },
+    "char_423_blemsh_1": {
+        "name": "瑕光",
+        "desc": [
+            "完成5次战斗；必须编入非助战瑕光并上场，且每次战斗至少释放1次先贤化身",
+            "3星通关别传MN-2；必须编入非助战瑕光并上场，其他成员仅可编入重装干员"
+        ],
+        "op": "别传MN-2",
+        "prof": "TANK",
+        "subprof": "guardian"
+    },
+    "char_148_nearl_1": {
+        "name": "临光",
+        "desc": [
+            "完成5次战斗；必须编入非助战临光并上场，且每次战斗至少释放1次急救模式",
+            "3星通关主题曲1-12；必须编入非助战临光并上场，且所有干员不被击倒"
+        ],
+        "op": "主题曲1-12",
+        "prof": "TANK",
+        "subprof": "guardian"
+    },
+    "char_226_hmau_1": {
+        "name": "吽",
+        "desc": [
+            "战斗中非助战吽累计使用反制医疗模式5次",
+            "使用至多3人（包含助战）的队伍3星通关主题曲S2-4；必须编入非助战吽并上场，其他成员仅可编入术师干员"
+        ],
+        "op": "主题曲S2-4",
+        "prof": "TANK",
+        "subprof": "guardian"
+    },
+    "char_196_sunbr_1": {
+        "name": "古米",
+        "desc": [
+            "战斗中非助战古米累计使用食粮烹制6次",
+            "3星通关主题曲4-2；必须编入非助战古米并上场，且不编入其他重装干员"
+        ],
+        "op": "主题曲4-2",
+        "prof": "TANK",
+        "subprof": "guardian"
     }
 }
