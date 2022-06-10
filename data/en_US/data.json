@@ -1,5 +1,5 @@
 {
-    "char_248_mgllan": {
+    "char_248_mgllan_1": {
         "name": "Magallan",
         "desc": [
             "Complete 5 operations and summon Magallan's summoned units at least 5 times in each operation (Magallan cannot be a Support Unit)",
@@ -9,7 +9,7 @@
         "prof": "SUPPORT",
         "subprof": "summoner"
     },
-    "char_336_folivo": {
+    "char_336_folivo_1": {
         "name": "Scene",
         "desc": [
             "Complete 5 operations and summon Scene's summoned units at least 5 times in each operation (Scene cannot be a Support Unit)",
@@ -19,7 +19,7 @@
         "prof": "SUPPORT",
         "subprof": "summoner"
     },
-    "char_242_otter": {
+    "char_242_otter_1": {
         "name": "Mayer",
         "desc": [
             "Complete 5 operations and summon Mayer's summoned units at least 5 times in each operation (Mayer cannot be a Support Unit)",
@@ -29,7 +29,7 @@
         "prof": "SUPPORT",
         "subprof": "summoner"
     },
-    "char_110_deepcl": {
+    "char_110_deepcl_1": {
         "name": "Deepcolor",
         "desc": [
             "Summon a total of 20 summoned units with Deepcolor (Deepcolor cannot be a Support Unit)",
@@ -39,7 +39,7 @@
         "prof": "SUPPORT",
         "subprof": "summoner"
     },
-    "char_485_pallas": {
+    "char_485_pallas_1": {
         "name": "Pallas",
         "desc": [
             "Defeat a total of 50 enemies with Pallas (Pallas cannot be a Support Unit)",
@@ -49,7 +49,7 @@
         "prof": "WARRIOR",
         "subprof": "instructor"
     },
-    "char_265_sophia": {
+    "char_265_sophia_1": {
         "name": "Whislash",
         "desc": [
             "Defeat a total of 50 enemies with Whislash (Whislash cannot be a Support Unit)",
@@ -59,7 +59,7 @@
         "prof": "WARRIOR",
         "subprof": "instructor"
     },
-    "char_308_swire": {
+    "char_308_swire_1": {
         "name": "Swire",
         "desc": [
             "Clear 5 operations with Swire (Swire cannot be a Support Unit); only Guard operators are allowed for the remaining units",
@@ -69,7 +69,7 @@
         "prof": "WARRIOR",
         "subprof": "instructor"
     },
-    "char_130_doberm": {
+    "char_130_doberm_1": {
         "name": "Dobermann",
         "desc": [
             "Clear 5 operations with Dobermann (Dobermann cannot be a Support Unit); only 3-star operators are allowed for the remaining units",
@@ -79,7 +79,7 @@
         "prof": "WARRIOR",
         "subprof": "instructor"
     },
-    "char_430_fartth": {
+    "char_430_fartth_1": {
         "name": "Fartooth",
         "desc": [
             "Defeat a total of 80 enemies with Fartooth (Fartooth cannot be a Support Unit)",
@@ -89,7 +89,7 @@
         "prof": "SNIPER",
         "subprof": "longrange"
     },
-    "char_158_milu": {
+    "char_158_milu_1": {
         "name": "Firewatch",
         "desc": [
             "Defeat a total of 25 enemy ranged units with Firewatch (Firewatch cannot be a Support Unit)",
@@ -99,7 +99,7 @@
         "prof": "SNIPER",
         "subprof": "longrange"
     },
-    "char_218_cuttle": {
+    "char_218_cuttle_1": {
         "name": "Andreana",
         "desc": [
             "Deal a total of 150,000 damage with Andreana (Andreana cannot be a Support Unit)",
@@ -109,7 +109,7 @@
         "prof": "SNIPER",
         "subprof": "longrange"
     },
-    "char_302_glaze": {
+    "char_302_glaze_1": {
         "name": "Ambriel",
         "desc": [
             "Defeat a total of 30 enemies with Ambriel's Radar Sweep (Ambriel cannot be a Support Unit)",
@@ -119,7 +119,7 @@
         "prof": "SNIPER",
         "subprof": "longrange"
     },
-    "char_179_cgbird": {
+    "char_179_cgbird_1": {
         "name": "Nightingale",
         "desc": [
             "Summon a total of 10 summoned units with Nightingale (Nightingale cannot be a Support Unit)",
@@ -129,7 +129,7 @@
         "prof": "MEDIC",
         "subprof": "ringhealer"
     },
-    "char_128_plosis": {
+    "char_128_plosis_1": {
         "name": "Ptilopsis",
         "desc": [
             "During battle, have Ptilopsis use Enkephalin 8 times (Ptilopsis cannot be a Support Unit)",
@@ -139,7 +139,7 @@
         "prof": "MEDIC",
         "subprof": "ringhealer"
     },
-    "char_275_breeze": {
+    "char_275_breeze_1": {
         "name": "Breeze",
         "desc": [
             "During battle, have Breeze fire a total of 50 healing rounds (Breeze cannot be a Support Unit)",
@@ -149,7 +149,7 @@
         "prof": "MEDIC",
         "subprof": "ringhealer"
     },
-    "char_181_flower": {
+    "char_181_flower_1": {
         "name": "Perfumer",
         "desc": [
             "Complete a total of 5 battles; In each battle, a non-Support Perfumer must be deployed once at least",
@@ -159,7 +159,7 @@
         "prof": "MEDIC",
         "subprof": "ringhealer"
     },
-    "char_250_phatom": {
+    "char_250_phatom_1": {
         "name": "Phantom",
         "desc": [
             "Defeat a total of 70 enemies with Phantom (Phantom cannot be a Support Unit)",
@@ -169,7 +169,7 @@
         "prof": "SPECIAL",
         "subprof": "executor"
     },
-    "char_214_kafka": {
+    "char_214_kafka_1": {
         "name": "Kafka",
         "desc": [
             "Defeat a total of 50 enemies with Kafka's skills (Kafka cannot be a Support Unit)",
@@ -179,7 +179,7 @@
         "prof": "SPECIAL",
         "subprof": "executor"
     },
-    "char_144_red": {
+    "char_144_red_1": {
         "name": "Projekt Red",
         "desc": [
             "Complete a total of 5 battles; In each battle, you must deploy your own Projekt Red at least 3 times",
@@ -189,7 +189,7 @@
         "prof": "SPECIAL",
         "subprof": "executor"
     },
-    "char_243_waaifu": {
+    "char_243_waaifu_1": {
         "name": "Waai Fu",
         "desc": [
             "Defeat a total of 50 Infected Creatures with Waai Fu's skill Seven-styles Kick (Waai Fu cannot be a Support Unit)",
@@ -199,7 +199,7 @@
         "prof": "SPECIAL",
         "subprof": "executor"
     },
-    "char_237_gravel": {
+    "char_237_gravel_1": {
         "name": "Gravel",
         "desc": [
             "Complete a total of 5 battles; In each battle, you must deploy your own Gravel at least 4 times",
@@ -209,7 +209,7 @@
         "prof": "SPECIAL",
         "subprof": "executor"
     },
-    "char_472_pasngr": {
+    "char_472_pasngr_1": {
         "name": "Passenger",
         "desc": [
             "During battle, have Passenger use Glorious Shards a total of 30 times (Passenger cannot be a Support Unit)",
@@ -219,7 +219,7 @@
         "prof": "CASTER",
         "subprof": "chain"
     },
-    "char_306_leizi": {
+    "char_306_leizi_1": {
         "name": "Leizi",
         "desc": [
             "Defeat a total of 50 enemies with Leizi's skill Thunderclap (Leizi cannot be a Support Unit)",
@@ -229,7 +229,7 @@
         "prof": "CASTER",
         "subprof": "chain"
     },
-    "char_4004_pudd": {
+    "char_4004_pudd_1": {
         "name": "Pudding",
         "desc": [
             "Deal a total of 150,000 damage with Pudding (Pudding cannot be a Support Unit)",
