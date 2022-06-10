@@ -1,5 +1,5 @@
 {
-    "char_248_mgllan": {
+    "char_248_mgllan_1": {
         "name": "마젤란",
         "desc": [
             "전투 5회 완료, 매회 전투 시 비지원 마젤란의 소환물 최소 5회 소환",
@@ -9,7 +9,7 @@
         "prof": "SUPPORT",
         "subprof": "summoner"
     },
-    "char_336_folivo": {
+    "char_336_folivo_1": {
         "name": "씬",
         "desc": [
             "전투 5회 완료, 매회 전투 시 비지원 씬의 소환물 최소 5회 소환",
@@ -19,7 +19,7 @@
         "prof": "SUPPORT",
         "subprof": "summoner"
     },
-    "char_242_otter": {
+    "char_242_otter_1": {
         "name": "메이어",
         "desc": [
             "전투 5회 완료, 매회 전투 시 비지원 메이어의 소환물 최소 5회 소환",
@@ -29,7 +29,7 @@
         "prof": "SUPPORT",
         "subprof": "summoner"
     },
-    "char_110_deepcl": {
+    "char_110_deepcl_1": {
         "name": "딥컬러",
         "desc": [
             "전투 중 비지원 딥컬러의 소환물 누적 20회 소환",
@@ -39,7 +39,7 @@
         "prof": "SUPPORT",
         "subprof": "summoner"
     },
-    "char_485_pallas": {
+    "char_485_pallas_1": {
         "name": "팔라스",
         "desc": [
             "비지원 팔라스로 적 누적 50명 섬멸",
@@ -49,7 +49,7 @@
         "prof": "WARRIOR",
         "subprof": "instructor"
     },
-    "char_265_sophia": {
+    "char_265_sophia_1": {
         "name": "위슬래시",
         "desc": [
             "비지원 위슬래시로 적 누적 섬멸 수 50 달성",
@@ -59,7 +59,7 @@
         "prof": "WARRIOR",
         "subprof": "instructor"
     },
-    "char_308_swire": {
+    "char_308_swire_1": {
         "name": "스와이어",
         "desc": [
             "비지원 스와이어를 출전시켜 전투 5회 완료, 나머지는 가드 오퍼레이터만 편성 가능",
@@ -69,7 +69,7 @@
         "prof": "WARRIOR",
         "subprof": "instructor"
     },
-    "char_130_doberm": {
+    "char_130_doberm_1": {
         "name": "도베르만",
         "desc": [
             "비지원 도베르만을 출전시켜 전투 5회 완료, 나머지는 3★ 오퍼레이터만 편성 가능",
@@ -79,7 +79,7 @@
         "prof": "WARRIOR",
         "subprof": "instructor"
     },
-    "char_430_fartth": {
+    "char_430_fartth_1": {
         "name": "파투스",
         "desc": [
             "비지원 파투스로 적 누적 섬멸 수 80 달성",
@@ -89,7 +89,7 @@
         "prof": "SNIPER",
         "subprof": "longrange"
     },
-    "char_158_milu": {
+    "char_158_milu_1": {
         "name": "파이어워치",
         "desc": [
             "비지원 파이어워치로 원거리 무기를 사용하는 적 누적 섬멸 수 25 섬멸",
@@ -99,7 +99,7 @@
         "prof": "SNIPER",
         "subprof": "longrange"
     },
-    "char_218_cuttle": {
+    "char_218_cuttle_1": {
         "name": "안드레아나",
         "desc": [
             "비지원 안드레아나로 누적 대미지 150000 달성",
@@ -109,7 +109,7 @@
         "prof": "SNIPER",
         "subprof": "longrange"
     },
-    "char_302_glaze": {
+    "char_302_glaze_1": {
         "name": "엠브리엘",
         "desc": [
             "비지원 엠브리엘의 '레이더 위치 추적'으로 적 누적 섬멸수 30 달성",
@@ -119,7 +119,7 @@
         "prof": "SNIPER",
         "subprof": "longrange"
     },
-    "char_179_cgbird": {
+    "char_179_cgbird_1": {
         "name": "나이팅게일",
         "desc": [
             "전투 중 비지원 나이팅게일의 소환물 누적 10회 소환",
@@ -129,7 +129,7 @@
         "prof": "MEDIC",
         "subprof": "ringhealer"
     },
-    "char_128_plosis": {
+    "char_128_plosis_1": {
         "name": "프틸롭시스",
         "desc": [
             "전투 중 비지원 프틸롭시스로 '엔도르핀' 누적 8회 사용",
@@ -139,7 +139,7 @@
         "prof": "MEDIC",
         "subprof": "ringhealer"
     },
-    "char_275_breeze": {
+    "char_275_breeze_1": {
         "name": "브리즈",
         "desc": [
             "전투중 비지원 브리즈의 치료탄 누적 50회 발사",
@@ -149,7 +149,7 @@
         "prof": "MEDIC",
         "subprof": "ringhealer"
     },
-    "char_181_flower": {
+    "char_181_flower_1": {
         "name": "퍼퓨머",
         "desc": [
             "전투 5회 완료, 매회 전투 시 비지원 퍼퓨머를 최소 1회 배치",
@@ -159,7 +159,7 @@
         "prof": "MEDIC",
         "subprof": "ringhealer"
     },
-    "char_250_phatom": {
+    "char_250_phatom_1": {
         "name": "팬텀",
         "desc": [
             "비지원 팬텀으로 적 누적 섬멸 수 70 달성",
@@ -169,7 +169,7 @@
         "prof": "SPECIAL",
         "subprof": "executor"
     },
-    "char_214_kafka": {
+    "char_214_kafka_1": {
         "name": "카프카",
         "desc": [
             "비지원 카프카의 스킬로 적 누적 섬멸 수 50 달성",
@@ -179,7 +179,7 @@
         "prof": "SPECIAL",
         "subprof": "executor"
     },
-    "char_144_red": {
+    "char_144_red_1": {
         "name": "레드",
         "desc": [
             "전투 5회 완료, 매회 전투 시 비지원 레드 최소 3회 배치",
@@ -189,7 +189,7 @@
         "prof": "SPECIAL",
         "subprof": "executor"
     },
-    "char_243_waaifu": {
+    "char_243_waaifu_1": {
         "name": "와이후",
         "desc": [
             "비지원 와이후의 '칠무약진각' 스킬로 감염 생물 누적 섬멸 수 50 달성",
@@ -199,7 +199,7 @@
         "prof": "SPECIAL",
         "subprof": "executor"
     },
-    "char_237_gravel": {
+    "char_237_gravel_1": {
         "name": "그라벨",
         "desc": [
             "전투 5회 완료, 매회 전투 시 비지원 그라벨 최소 4회 배치",
@@ -209,7 +209,7 @@
         "prof": "SPECIAL",
         "subprof": "executor"
     },
-    "char_472_pasngr": {
+    "char_472_pasngr_1": {
         "name": "패신저",
         "desc": [
             "전투 중 비지원 패신저로 '찬란히 찢어진 조각' 스킬 누적 30회 사용",
@@ -219,7 +219,7 @@
         "prof": "CASTER",
         "subprof": "chain"
     },
-    "char_306_leizi": {
+    "char_306_leizi_1": {
         "name": "레이즈",
         "desc": [
             "비지원 레이즈의 '초뢰' 스킬로 적 누적 섬멸 수 50 달성",
@@ -229,7 +229,7 @@
         "prof": "CASTER",
         "subprof": "chain"
     },
-    "char_4004_pudd": {
+    "char_4004_pudd_1": {
         "name": "푸딩",
         "desc": [
             "비지원 푸딩으로 누적 대미지 150000 달성",
