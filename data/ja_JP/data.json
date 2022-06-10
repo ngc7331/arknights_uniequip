@@ -1,5 +1,5 @@
 {
-    "char_248_mgllan": {
+    "char_248_mgllan_1": {
         "name": "マゼラン",
         "desc": [
             "サポート以外のマゼランのドローンを5回以上召喚した上で戦闘を5回クリア。",
@@ -9,7 +9,7 @@
         "prof": "SUPPORT",
         "subprof": "summoner"
     },
-    "char_336_folivo": {
+    "char_336_folivo_1": {
         "name": "シーン",
         "desc": [
             "サポート以外のシーンの撮影ロボットを5回以上召喚した上で戦闘を5回クリア。",
@@ -19,7 +19,7 @@
         "prof": "SUPPORT",
         "subprof": "summoner"
     },
-    "char_242_otter": {
+    "char_242_otter_1": {
         "name": "メイヤー",
         "desc": [
             "サポート以外のメイヤーの機械川獺を5回以上召喚した上で戦闘を5回クリア。",
@@ -29,7 +29,7 @@
         "prof": "SUPPORT",
         "subprof": "summoner"
     },
-    "char_110_deepcl": {
+    "char_110_deepcl_1": {
         "name": "ディピカ",
         "desc": [
             "サポート以外のディピカの触手を累計20回召喚する。",
@@ -39,7 +39,7 @@
         "prof": "SUPPORT",
         "subprof": "summoner"
     },
-    "char_485_pallas": {
+    "char_485_pallas_1": {
         "name": "パラス",
         "desc": [
             "サポート以外のパラスで敵を累計50体撃破する。",
@@ -49,7 +49,7 @@
         "prof": "WARRIOR",
         "subprof": "instructor"
     },
-    "char_265_sophia": {
+    "char_265_sophia_1": {
         "name": "ウィスラッシュ",
         "desc": [
             "サポート以外のウィスラッシュで敵を累計50体撃破する。",
@@ -59,7 +59,7 @@
         "prof": "WARRIOR",
         "subprof": "instructor"
     },
-    "char_308_swire": {
+    "char_308_swire_1": {
         "name": "スワイヤー",
         "desc": [
             "サポート以外のスワイヤーを配置して戦闘を5回クリア。その際、他のメンバーは前衛オペレーターのみとする。",
@@ -69,7 +69,7 @@
         "prof": "WARRIOR",
         "subprof": "instructor"
     },
-    "char_130_doberm": {
+    "char_130_doberm_1": {
         "name": "ドーベルマン",
         "desc": [
             "サポート以外のドーベルマンを配置して戦闘を5回クリア。その際、他のメンバーは★3オペレーターのみとする。",
@@ -79,7 +79,7 @@
         "prof": "WARRIOR",
         "subprof": "instructor"
     },
-    "char_430_fartth": {
+    "char_430_fartth_1": {
         "name": "ファートゥース",
         "desc": [
             "サポート以外のファートゥースで敵を累計80体撃破する。",
@@ -89,7 +89,7 @@
         "prof": "SNIPER",
         "subprof": "longrange"
     },
-    "char_158_milu": {
+    "char_158_milu_1": {
         "name": "ファイヤーウォッチ",
         "desc": [
             "サポート以外のファイヤーウォッチで、遠距離武器を使用する敵を累計25体撃破する。",
@@ -99,7 +99,7 @@
         "prof": "SNIPER",
         "subprof": "longrange"
     },
-    "char_218_cuttle": {
+    "char_218_cuttle_1": {
         "name": "アンドレアナ",
         "desc": [
             "サポート以外のアンドレアナで敵に累計150000ダメージを与える。",
@@ -109,7 +109,7 @@
         "prof": "SNIPER",
         "subprof": "longrange"
     },
-    "char_302_glaze": {
+    "char_302_glaze_1": {
         "name": "アンブリエル",
         "desc": [
             "サポート以外のアンブリエルで、スキル「全方位レーダー」にて敵を累計30体撃破する。",
@@ -119,7 +119,7 @@
         "prof": "SNIPER",
         "subprof": "longrange"
     },
-    "char_179_cgbird": {
+    "char_179_cgbird_1": {
         "name": "ナイチンゲール",
         "desc": [
             "サポート以外のナイチンゲールの鳥籠の幻影を累計10回召喚する。",
@@ -129,7 +129,7 @@
         "prof": "MEDIC",
         "subprof": "ringhealer"
     },
-    "char_128_plosis": {
+    "char_128_plosis_1": {
         "name": "フィリオプシス",
         "desc": [
             "サポート以外のフィリオプシスのスキル「エンケファリン」を累計8回使用する。",
@@ -139,7 +139,7 @@
         "prof": "MEDIC",
         "subprof": "ringhealer"
     },
-    "char_275_breeze": {
+    "char_275_breeze_1": {
         "name": "ブリーズ",
         "desc": [
             "サポート以外のブリーズにて医療弾を累計50発発射する。",
@@ -149,7 +149,7 @@
         "prof": "MEDIC",
         "subprof": "ringhealer"
     },
-    "char_181_flower": {
+    "char_181_flower_1": {
         "name": "パフューマー",
         "desc": [
             "サポート以外のパフューマーを編成、配置した上で戦闘を5回クリア。",
@@ -159,7 +159,7 @@
         "prof": "MEDIC",
         "subprof": "ringhealer"
     },
-    "char_250_phatom": {
+    "char_250_phatom_1": {
         "name": "ファントム",
         "desc": [
             "サポート以外のファントムで敵を累計70体撃破する。",
@@ -169,7 +169,7 @@
         "prof": "SPECIAL",
         "subprof": "executor"
     },
-    "char_214_kafka": {
+    "char_214_kafka_1": {
         "name": "カフカ",
         "desc": [
             "サポート以外のカフカのスキルで敵を累計50体撃破する。",
@@ -179,7 +179,7 @@
         "prof": "SPECIAL",
         "subprof": "executor"
     },
-    "char_144_red": {
+    "char_144_red_1": {
         "name": "レッド",
         "desc": [
             "サポート以外のレッドを3回配置した上で戦闘を5回クリア。",
@@ -189,7 +189,7 @@
         "prof": "SPECIAL",
         "subprof": "executor"
     },
-    "char_243_waaifu": {
+    "char_243_waaifu_1": {
         "name": "ワイフー",
         "desc": [
             "サポート以外のワイフーのスキル「七武掠陣脚」で敵を累計50体撃破する。",
@@ -199,7 +199,7 @@
         "prof": "SPECIAL",
         "subprof": "executor"
     },
-    "char_237_gravel": {
+    "char_237_gravel_1": {
         "name": "グラベル",
         "desc": [
             "サポート以外のグラベルを4回配置した上で戦闘を5回クリア。",
@@ -209,7 +209,7 @@
         "prof": "SPECIAL",
         "subprof": "executor"
     },
-    "char_472_pasngr": {
+    "char_472_pasngr_1": {
         "name": "パッセンジャー",
         "desc": [
             "サポート以外のパッセンジャーのスキル「ルミナスフラグメンツ」を累計30回使用する。",
@@ -219,7 +219,7 @@
         "prof": "CASTER",
         "subprof": "chain"
     },
-    "char_306_leizi": {
+    "char_306_leizi_1": {
         "name": "レイズ",
         "desc": [
             "サポート以外のレイズのスキル「初雷」で敵を累計50体撃破する。",
@@ -229,7 +229,7 @@
         "prof": "CASTER",
         "subprof": "chain"
     },
-    "char_4004_pudd": {
+    "char_4004_pudd_1": {
         "name": "プリン",
         "desc": [
             "サポート以外のプリンで敵に累計150000ダメージを与える。",
