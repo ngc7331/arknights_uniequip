@@ -60,25 +60,30 @@ def main():
     data = {}
     ops = {}
     profs = {}
-    for char, (_, equip) in char_equip.items():
+    for char, equips in char_equip.items():
         name = character_table[char]['name']
-        desc = [mission_list[m]['desc'] for m in equip_dict[equip]['missionList']]
         prof = character_table[char]['profession']
         subprof = character_table[char]['subProfessionId']
-        op = re.search(pattern, desc[1], re.I).group(1)
 
-        data[char] = {
-            'name': name,
-            'desc': desc,
-            'op': op,
-            'prof': prof,
-            'subprof': subprof
-        }
+        for (equip, i) in zip(equips, range(len(equips))):
+            if equip_dict[equip]['type'] == 'INITIAL':
+                continue
 
-        if op not in ops.keys():
-            ops[op] = {
-                'name': op
+            desc = [mission_list[m]['desc'] for m in equip_dict[equip]['missionList']]
+            op = re.search(pattern, desc[1], re.I).group(1)
+
+            data[f'{char}_{i}'] = {
+                'name': name,
+                'desc': desc,
+                'op': op,
+                'prof': prof,
+                'subprof': subprof,
             }
+
+            if op not in ops.keys():
+                ops[op] = {
+                    'name': op
+                }
 
         if prof not in profs.keys():
             profs[prof] = {
