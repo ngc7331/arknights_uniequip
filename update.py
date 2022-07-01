@@ -22,10 +22,10 @@ CHARACTER_TABLE = 'gamedata/excel/character_table.json'
 with open('data/prof_dict.json', 'r') as f:
     PROF_DICT = json.load(f)
 PATTERNS = {
-    'zh_CN': r'通关(.+?)[；;]',
-    'en_US': r'clear (.+?) with',
-    'ko_KR': r'메인 스토리 (.+?) 스테이지를', # HELP-WANTED
-    'ja_JP': r'メインテーマ(.+?)を', # HELP-WANTED
+    'zh_CN': {r'通关(.+?)[；;]':''},
+    'en_US': {r'clear (.+?) with':''},
+    'ko_KR': {r'스토리 (.+?) 스테이지를':''}, # HELP-WANTED
+    'ja_JP': {r'メインテーマ(.+?)を':'メインテーマ', r'サイドストーリー(.+?)を':'サイドストーリー'}, # HELP-WANTED
 }
 OUTPUT_DIR = f'data/{SERVER}'
 OUTPUT = {
@@ -70,7 +70,14 @@ def main():
                 continue
 
             desc = [mission_list[m]['desc'] for m in equip_dict[equip]['missionList']]
-            op = re.search(pattern, desc[1], re.I).group(1)
+            for (pat, pre) in pattern.items():
+                try:
+                    op = re.search(pat, desc[1], re.I).group(1)
+                except AttributeError:
+                    continue
+                op = pre + op
+                break
+
 
             data[f'{char}_{i}'] = {
                 'name': name,
