@@ -12,6 +12,9 @@
         "sub": {
             "instructor": {
                 "name": "教官"
+            },
+            "sword": {
+                "name": "剣豪"
             }
         }
     },
@@ -44,6 +47,14 @@
         "sub": {
             "chain": {
                 "name": "連鎖術師"
+            }
+        }
+    },
+    "PIONEER": {
+        "name": "先鋒",
+        "sub": {
+            "charger": {
+                "name": "突撃兵"
             }
         }
     }
