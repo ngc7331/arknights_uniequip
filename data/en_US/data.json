@@ -238,5 +238,95 @@
         "op": "Main Theme 2-10",
         "prof": "CASTER",
         "subprof": "chain"
+    },
+    "char_010_chen_1": {
+        "name": "Ch'en",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Ch'en, and unleash Chi Xiao - Unsheath or Chi Xiao - Shadowless at least 1 time in each battle",
+            "Clear Main Theme 5-8 with a 3-star rating; You must deploy your own Ch'en, and have Ch'en defeat at least 16 enemies"
+        ],
+        "op": "Main Theme 5-8",
+        "prof": "WARRIOR",
+        "subprof": "sword"
+    },
+    "char_459_tachak_1": {
+        "name": "Tachanka",
+        "desc": [
+            "Deal a total of 150,000 damage with Tachanka (excluding Support Units)",
+            "Clear Main Story S2-3 with a 3-star rating using a squad of at most 2 units (including Support Units); a non-Support Tachanka must be in the squad and deployed, and only Defender operators are allowed for the remaining units"
+        ],
+        "op": "Main Story S2-3",
+        "prof": "WARRIOR",
+        "subprof": "sword"
+    },
+    "char_252_bibeak_1": {
+        "name": "Bibeak",
+        "desc": [
+            "During battle, have Bibeak use Blade Swap a total of 16 times (excluding Support Units)",
+            "Clear Main Theme 3-7 with a 3-star rating; You must deploy your own Bibeak, and have Bibeak defeat at least 1 Heavy Defender Leader"
+        ],
+        "op": "Main Theme 3-7",
+        "prof": "WARRIOR",
+        "subprof": "sword"
+    },
+    "char_301_cutter_1": {
+        "name": "Cutter",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Cutter, and have Cutter defeat at least 3 enemy Drones in each battle",
+            "Clear Main Theme 2-7 with a 3-star rating; You must deploy your own Cutter, and have Cutter defeat at least 2 Defender-4s with Crimson Crescent"
+        ],
+        "op": "Main Theme 2-7",
+        "prof": "WARRIOR",
+        "subprof": "sword"
+    },
+    "char_222_bpipe_1": {
+        "name": "Bagpipe",
+        "desc": [
+            "Defeat a total of 80 enemies with Bagpipe (excluding Support Units)",
+            "Clear Main Theme 4-5 with a 3-star rating; You must deploy your own Bagpipe, and have Bagpipe defeat at least 4 Arts Guards"
+        ],
+        "op": "Main Theme 4-5",
+        "prof": "PIONEER",
+        "subprof": "charger"
+    },
+    "char_220_grani_1": {
+        "name": "Grani",
+        "desc": [
+            "Complete a total of 5 battles; You must include your own Grani, and Grani must be the first Operator deployed",
+            "Clear Side Story GT-6 with a 3-star rating; You must deploy your own Grani, and have Grani defeat 8 enemies"
+        ],
+        "op": "Side Story GT-6",
+        "prof": "PIONEER",
+        "subprof": "charger"
+    },
+    "char_496_wildmn_1": {
+        "name": "Wild Mane",
+        "desc": [
+            "Complete a total of 5 battles; You must include your own Wild Mane, and Wild Mane must be the first Operator deployed",
+            "Clear Side Story MN-2 with a 3-star rating; You must deploy your own Wild Mane, and cannot include any other Vanguard Operators as members"
+        ],
+        "op": "Side Story MN-2",
+        "prof": "PIONEER",
+        "subprof": "charger"
+    },
+    "char_261_sddrag_1": {
+        "name": "Reed",
+        "desc": [
+            "Defeat a total of 70 enemies with Reed (excluding Support Units)",
+            "Clear Main Theme 9-5 with a 3-star rating; You must deploy your own Reed, and cannot include any other Vanguard Operators as members"
+        ],
+        "op": "Main Theme 9-5",
+        "prof": "PIONEER",
+        "subprof": "charger"
+    },
+    "char_290_vigna_1": {
+        "name": "Vigna",
+        "desc": [
+            "Complete a total of 5 battles; You must include your own Vigna, and Vigna must be the first Operator deployed",
+            "Clear Main Theme 3-3 with a 3-star rating; You must deploy your own Vigna, and have Vigna defeat 8 enemies"
+        ],
+        "op": "Main Theme 3-3",
+        "prof": "PIONEER",
+        "subprof": "charger"
     }
 }

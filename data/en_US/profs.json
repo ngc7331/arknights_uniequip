@@ -12,6 +12,9 @@
         "sub": {
             "instructor": {
                 "name": "Instructor"
+            },
+            "sword": {
+                "name": "Swordmaster"
             }
         }
     },
@@ -44,6 +47,14 @@
         "sub": {
             "chain": {
                 "name": "Chain Caster"
+            }
+        }
+    },
+    "PIONEER": {
+        "name": "Pioneer",
+        "sub": {
+            "charger": {
+                "name": "Charger"
             }
         }
     }
