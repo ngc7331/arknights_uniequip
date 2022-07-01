@@ -12,6 +12,9 @@
         "sub": {
             "instructor": {
                 "name": "교관"
+            },
+            "sword": {
+                "name": "소드마스터"
             }
         }
     },
@@ -44,6 +47,14 @@
         "sub": {
             "chain": {
                 "name": "체인 캐스터"
+            }
+        }
+    },
+    "PIONEER": {
+        "name": "뱅가드",
+        "sub": {
+            "charger": {
+                "name": "돌격수"
             }
         }
     }
