@@ -35,6 +35,9 @@
             },
             "closerange": {
                 "name": "重射手"
+            },
+            "fastshot": {
+                "name": "速射手"
             }
         }
     },
