@@ -328,5 +328,105 @@
         "op": "Main Theme 3-3",
         "prof": "PIONEER",
         "subprof": "charger"
+    },
+    "char_1014_nearl2_1": {
+        "name": "Nearl the Radiant Knight",
+        "desc": [
+            "Defeat a total of 100 enemies with Nearl the Radiant Knight (excluding Support Units)",
+            "Clear Side Story MN-8 with a 3-star rating; You must deploy your own Nearl the Radiant Knight, and have Nearl the Radiant Knight defeat at least 1 Corrupted Knight or Withered Knight"
+        ],
+        "op": "Side Story MN-8",
+        "prof": "WARRIOR",
+        "subprof": "fearless"
+    },
+    "char_263_skadi_1": {
+        "name": "Skadi",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Skadi, and have Skadi defeat at least 5 enemies",
+            "Clear Side Story GT-6; You must deploy your own Skadi, and have Skadi defeat at least 1 Big Bob"
+        ],
+        "op": "Side Story MN-8",
+        "prof": "WARRIOR",
+        "subprof": "fearless"
+    },
+    "char_131_flameb_1": {
+        "name": "Flamebringer",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Flamebringer, and have Flamebringer use Blade Demon at least 1 time",
+            "Clear Main Theme S4-3 with a 3-star rating; You must deploy your own Flamebringer, and have Flamebringer defeat at least 3 Sarkaz enemies"
+        ],
+        "op": "Main Theme S4-3",
+        "prof": "WARRIOR",
+        "subprof": "fearless"
+    },
+    "char_106_franka_1": {
+        "name": "Franka",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Franka, and have Franka deal at least 18,000 damage",
+            "Clear Main Theme 9-3 with a 3-star rating; You must deploy your own Franka, and have Franka defeat at least 1 Dublinn Heavy Defender"
+        ],
+        "op": "Main Theme 9-3",
+        "prof": "WARRIOR",
+        "subprof": "fearless"
+    },
+    "char_159_peacok_1": {
+        "name": "Conviction",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Conviction, and have Conviction deal at least 15,000 damage",
+            "Clear Main Theme 2-4 with a 3-star rating; You must deploy your own Conviction, and the remaining units can consist only of Specialist operators"
+        ],
+        "op": "Main Theme 2-4",
+        "prof": "WARRIOR",
+        "subprof": "fearless"
+    },
+    "char_289_gyuki_1": {
+        "name": "Matoimaru",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Matoimaru, and have Matoimaru deal at least 15,000 damage",
+            "Clear Main Theme S2-10 with a 3-star rating; You must deploy your own Matoimaru, and have Matoimaru defeat at least 2 Senior Casters"
+        ],
+        "op": "Main Theme S2-10",
+        "prof": "WARRIOR",
+        "subprof": "fearless"
+    },
+    "char_455_nothin_1": {
+        "name": "Mr. Nothing",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Mr. Nothing at least 2 times, and have Mr. Nothing defeat at least 4 enemies",
+            "Clear Main Theme 3-7 with a 3-star rating; You must deploy your own Mr. Nothing, and have Mr. Nothing defeat at least 2 Artillerymen"
+        ],
+        "op": "Main Theme 3-7",
+        "prof": "SPECIAL",
+        "subprof": "merchant"
+    },
+    "char_272_strong_1": {
+        "name": "Jaye",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Jaye at least 2 times, and have Jaye defeat at least 3 enemies",
+            "Clear Main Theme S3-2 with a 3-star rating; You must deploy your own Jaye, and have Jaye defeat at least 8 Originium Slugs β"
+        ],
+        "op": "Main Theme S3-2",
+        "prof": "SPECIAL",
+        "subprof": "merchant"
+    },
+    "char_322_lmlee_1": {
+        "name": "Lee",
+        "desc": [
+            "Defeat a total of 80 enemies with Lee (excluding Support Units)",
+            "Clear Main Theme 3-1 with a 3-star rating; You must deploy your own Lee, and the remaining units can only consist of Sniper, Vanguard, and Medic operators"
+        ],
+        "op": "Main Theme 3-1",
+        "prof": "SPECIAL",
+        "subprof": "merchant"
+    },
+    "char_2023_ling_1": {
+        "name": "Ling",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Ling, and have Ling and her summons defeat a total of 7 enemies",
+            "Clear Main Theme 3-4 with a 3-star rating; You must deploy your own Ling, while not deploying more than 4 other operators"
+        ],
+        "op": "Main Theme 3-4",
+        "prof": "SUPPORT",
+        "subprof": "summoner"
     }
 }
