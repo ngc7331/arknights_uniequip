@@ -15,6 +15,9 @@
             },
             "sword": {
                 "name": "소드마스터"
+            },
+            "fearless": {
+                "name": "드레드노트"
             }
         }
     },
@@ -39,6 +42,9 @@
         "sub": {
             "executor": {
                 "name": "처형자"
+            },
+            "merchant": {
+                "name": "상인"
             }
         }
     },
