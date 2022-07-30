@@ -15,6 +15,9 @@
             },
             "sword": {
                 "name": "剣豪"
+            },
+            "fearless": {
+                "name": "勇士"
             }
         }
     },
@@ -39,6 +42,9 @@
         "sub": {
             "executor": {
                 "name": "執行者"
+            },
+            "merchant": {
+                "name": "行商人"
             }
         }
     },
