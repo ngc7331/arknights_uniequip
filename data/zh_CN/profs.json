@@ -102,6 +102,9 @@
             },
             "guardian": {
                 "name": "守护者"
+            },
+            "protector": {
+                "name": "铁卫"
             }
         }
     }
