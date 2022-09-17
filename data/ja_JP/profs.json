@@ -26,6 +26,9 @@
         "sub": {
             "longrange": {
                 "name": "戦術射手"
+            },
+            "aoesniper": {
+                "name": "榴弾射手"
             }
         }
     },
@@ -53,6 +56,9 @@
         "sub": {
             "chain": {
                 "name": "連鎖術師"
+            },
+            "splashcaster": {
+                "name": "拡散術師"
             }
         }
     },
