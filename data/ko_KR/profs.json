@@ -26,6 +26,9 @@
         "sub": {
             "longrange": {
                 "name": "저격수"
+            },
+            "aoesniper": {
+                "name": "포격사수"
             }
         }
     },
@@ -53,6 +56,9 @@
         "sub": {
             "chain": {
                 "name": "체인 캐스터"
+            },
+            "splashcaster": {
+                "name": "스플래시 캐스터"
             }
         }
     },
