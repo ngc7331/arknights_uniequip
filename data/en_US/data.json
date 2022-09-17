@@ -428,5 +428,125 @@
         "op": "Main Theme 3-4",
         "prof": "SUPPORT",
         "subprof": "summoner"
+    },
+    "char_113_cqbw_1": {
+        "name": "W",
+        "desc": [
+            "Defeat a total of 80 enemies with W (excluding Support Units)",
+            "Clear Intermezzi DM-3 with a 3-star rating; You must deploy your own W and have W defeat at least 2 Sarkaz Lancers"
+        ],
+        "op": "Intermezzi DM-3",
+        "prof": "SNIPER",
+        "subprof": "aoesniper"
+    },
+    "char_300_phenxi_1": {
+        "name": "Fiammetta",
+        "desc": [
+            "Deal a total of 180,000 damage with Fiammetta (excluding Support Units)",
+            "Clear Main Theme S5-9 with a 3-star rating; You must deploy your own Fiammetta and have Fiammetta deal at least 60,000 damage"
+        ],
+        "op": "Main Theme S5-9",
+        "prof": "SNIPER",
+        "subprof": "aoesniper"
+    },
+    "char_219_meteo_1": {
+        "name": "Meteorite",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Meteorite, and have Meteorite defeat at least 10 enemies",
+            "Clear Main Theme 2-4 with a 3-star rating; You must deploy your own Meteorite and only Vanguard and Medic Operators are allowed for the remaining units"
+        ],
+        "op": "Main Theme 2-4",
+        "prof": "SNIPER",
+        "subprof": "aoesniper"
+    },
+    "char_379_sesa_1": {
+        "name": "Sesa",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Sesa, and have Sesa deal at least 25,000 damage",
+            "Clear Main Theme S3-6 with a 3-star rating; You must deploy your own Sesa, and have Sesa defeat at least 10 Originium Slugs β"
+        ],
+        "op": "Main Theme S3-6",
+        "prof": "SNIPER",
+        "subprof": "aoesniper"
+    },
+    "char_118_yuki_1": {
+        "name": "Shirayuki",
+        "desc": [
+            "Deal a total of 120,000 damage with Shirayuki (excluding Support Units)",
+            "Clear Main Theme S2-11 with a 3-star rating; You must deploy your own Shirayuki, and have Shirayuki defeat at least 15 enemies"
+        ],
+        "op": "Main Theme S2-11",
+        "prof": "SNIPER",
+        "subprof": "aoesniper"
+    },
+    "char_2015_dusk_1": {
+        "name": "Dusk",
+        "desc": [
+            "Summon a total of 20 summoned units with Dusk (excluding Support Units)",
+            "Clear Main Theme 1-6 with a 3-star rating using a squad of at most 2 units (including Support Units); a non-Support Dusk must be in the squad and deployed, and only Defender operators are allowed for the remaining units"
+        ],
+        "op": "Main Theme 1-6",
+        "prof": "CASTER",
+        "subprof": "splashcaster"
+    },
+    "char_213_mostma_1": {
+        "name": "Mostima",
+        "desc": [
+            "Defeat a total of 100 enemies with Mostima (excluding Support Units)",
+            "Clear Side Story CB-5 with a 3-star rating; You must deploy your own Mostima, and have Mostima defeat at least 8 enemies, including at least 1 Bully"
+        ],
+        "op": "Side Story CB-5",
+        "prof": "CASTER",
+        "subprof": "splashcaster"
+    },
+    "char_1011_lava2_1": {
+        "name": "Lava the Purgatory",
+        "desc": [
+            "Defeat a total of 80 enemies with Lava the Purgatory (excluding Support Units)",
+            "Clear Side Story WR-4 with a 3-star rating; You must deploy your own Lava the Purgatory, and have Lava the Purgatory defeat at least 8 enemies, including at least 1 'Lazy'"
+        ],
+        "op": "Side Story WR-4",
+        "prof": "CASTER",
+        "subprof": "splashcaster"
+    },
+    "char_166_skfire_1": {
+        "name": "Skyfire",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Skyfire, and unleash Fire of Heaven at least 1 time in each battle",
+            "Clear Main Theme S3-5 with a 3-star rating; You must deploy your own Skyfire, and have Skyfire defeat at least 10 enemies, including at least 2 Butchers"
+        ],
+        "op": "Main Theme S3-5",
+        "prof": "CASTER",
+        "subprof": "splashcaster"
+    },
+    "char_373_lionhd_1": {
+        "name": "Leonhardt",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Leonhardt, and unleash Deconstruct and Detonate at least 4 times in each battle",
+            "Clear Main Theme 3-5 with a 3-star rating; You must deploy your own Leonhardt, and have Leonhardt defeat at least 10 enemies with Deconstruct and Detonate"
+        ],
+        "op": "Main Theme 3-5",
+        "prof": "CASTER",
+        "subprof": "splashcaster"
+    },
+    "char_109_fmout_1": {
+        "name": "Gitano",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Gitano, and have Gitano defeat at least 8 enemies",
+            "Clear Main Theme 1-10 with a 3-star rating; You must deploy your own Gitano, and have Gitano defeat at least 10 enemies"
+        ],
+        "op": "Main Theme 1-10",
+        "prof": "CASTER",
+        "subprof": "splashcaster"
+    },
+    "char_253_greyy_1": {
+        "name": "Greyy",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Greyy, and have Greyy defeat at least 8 enemies",
+            "Clear Main Theme 2-3 with a 3-star rating using a squad of at most 4 units (including Support Units); a non-Support Greyy must be in the squad and only Vanguard operators are allowed for the remaining units"
+        ],
+        "op": "Main Theme 2-3",
+        "prof": "CASTER",
+        "subprof": "splashcaster"
     }
 }

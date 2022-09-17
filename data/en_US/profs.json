@@ -26,6 +26,9 @@
         "sub": {
             "longrange": {
                 "name": "Deadeye"
+            },
+            "aoesniper": {
+                "name": "Artilleryman"
             }
         }
     },
@@ -53,6 +56,9 @@
         "sub": {
             "chain": {
                 "name": "Chain Caster"
+            },
+            "splashcaster": {
+                "name": "Splash Caster"
             }
         }
     },
