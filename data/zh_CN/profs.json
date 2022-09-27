@@ -49,6 +49,9 @@
             },
             "healer": {
                 "name": "疗养师"
+            },
+            "physician": {
+                "name": "医师"
             }
         }
     },
