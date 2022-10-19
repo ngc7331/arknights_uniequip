@@ -4,6 +4,9 @@
         "sub": {
             "summoner": {
                 "name": "召喚師"
+            },
+            "slower": {
+                "name": "緩速師"
             }
         }
     },
@@ -29,6 +32,9 @@
             },
             "aoesniper": {
                 "name": "榴弾射手"
+            },
+            "closerange": {
+                "name": "精密射手"
             }
         }
     },
