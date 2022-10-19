@@ -4,6 +4,9 @@
         "sub": {
             "summoner": {
                 "name": "소환사"
+            },
+            "slower": {
+                "name": "감속자"
             }
         }
     },
@@ -29,6 +32,9 @@
             },
             "aoesniper": {
                 "name": "포격사수"
+            },
+            "closerange": {
+                "name": "헤비슈터"
             }
         }
     },
