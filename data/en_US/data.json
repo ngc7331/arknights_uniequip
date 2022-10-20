@@ -548,5 +548,95 @@
         "op": "Main Theme 2-3",
         "prof": "CASTER",
         "subprof": "splashcaster"
+    },
+    "char_340_shwaz_1": {
+        "name": "Schwarz",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Schwarz, and unleash Final Tactics at least 2 times in each battle",
+            "Clear Side Story OF-7 with a 3-star rating; You must deploy your own Schwarz, and have Schwarz defeat at least 2 Rockbreakers"
+        ],
+        "op": "Side Story OF-7",
+        "prof": "SNIPER",
+        "subprof": "closerange"
+    },
+    "char_145_prove_1": {
+        "name": "Provence",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Provence, and have Provence defeat at least 5 enemies",
+            "Clear Main Theme S5-1 with a 3-star rating; You must deploy your own Provence, and have Provence defeat at least 6 enemies, including at least 1 Veteran Logger"
+        ],
+        "op": "Main Theme S5-1",
+        "prof": "SNIPER",
+        "subprof": "closerange"
+    },
+    "char_366_acdrop_1": {
+        "name": "Aciddrop",
+        "desc": [
+            "Defeat a total of 50 enemies with Aciddrop (excluding Support Units)",
+            "Clear Main Theme 2-8 with a 3-star rating; You must deploy your own Aciddrop, and have Aciddrop defeat at least 1 Metal Crab"
+        ],
+        "op": "Main Theme 2-8",
+        "prof": "SNIPER",
+        "subprof": "closerange"
+    },
+    "char_358_lisa_1": {
+        "name": "Suzuran",
+        "desc": [
+            "During battle, have Suzuran use Foxfire Haze a total of 6 times (excluding Support Units)",
+            "Clear Side Story TW-7 with a 3-star rating; The only Supporter Operator that can be deployed is your own Suzuran"
+        ],
+        "op": "Side Story TW-7",
+        "prof": "SUPPORT",
+        "subprof": "slower"
+    },
+    "char_291_aglina_1": {
+        "name": "Angelina",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Angelina, and have Angelina defeat at least 7 enemies",
+            "Clear Main Theme 4-4 with a 3-star rating; You must deploy your own Angelina, and the remaining units can consist only of 2 Specialist Operators"
+        ],
+        "op": "Main Theme 4-4",
+        "prof": "SUPPORT",
+        "subprof": "slower"
+    },
+    "char_326_glacus_1": {
+        "name": "Glaucus",
+        "desc": [
+            "Defeat a total of 20 Drone enemies with Glaucus (excluding Support Units)",
+            "Clear Main Theme 5-7 with a 3-star rating; You must deploy your own Glaucus, and have Glaucus defeat at least 2 Arts Master A1s"
+        ],
+        "op": "Main Theme 5-7",
+        "prof": "SUPPORT",
+        "subprof": "slower"
+    },
+    "char_195_glassb_1": {
+        "name": "Istina",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Istina, and have Istina deal at least 25,000 damage",
+            "Clear Main Theme 2-3 with a 3-star rating; You must deploy your own Istina, and only 6 Operators are allowed for the remaining units"
+        ],
+        "op": "Main Theme 2-3",
+        "prof": "SUPPORT",
+        "subprof": "slower"
+    },
+    "char_258_podego_1": {
+        "name": "Podenco",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Podenco, and unleash Spread Spores at least 2 times in each battle",
+            "Clear Main Theme 4-6 with a 3-star rating; You must deploy your own Podenco, and have Podenco defeat at least 2 Infused Originium Slugs"
+        ],
+        "op": "Main Theme 4-6",
+        "prof": "SUPPORT",
+        "subprof": "slower"
+    },
+    "char_183_skgoat_1": {
+        "name": "Earthspirit",
+        "desc": [
+            "Have Earthspirit use Quicksand Conversion a total of 6 times (excluding Support Units)",
+            "Clear Intermezzo DM-2 with a 3-star rating; You must deploy your own Earthspirit, and only Vanguard and Sniper Operators are allowed for the remaining units"
+        ],
+        "op": "Intermezzo DM-2",
+        "prof": "SUPPORT",
+        "subprof": "slower"
     }
 }

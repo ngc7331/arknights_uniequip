@@ -4,6 +4,9 @@
         "sub": {
             "summoner": {
                 "name": "Summoner"
+            },
+            "slower": {
+                "name": "Decel Binder"
             }
         }
     },
@@ -29,6 +32,9 @@
             },
             "aoesniper": {
                 "name": "Artilleryman"
+            },
+            "closerange": {
+                "name": "Heavyshooter"
             }
         }
     },
