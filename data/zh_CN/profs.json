@@ -94,6 +94,9 @@
         "sub": {
             "charger": {
                 "name": "冲锋手"
+            },
+            "pioneer": {
+                "name": "尖兵"
             }
         }
     },
