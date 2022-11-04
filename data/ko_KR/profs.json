@@ -43,6 +43,9 @@
         "sub": {
             "ringhealer": {
                 "name": "멀티 타겟 메딕"
+            },
+            "healer": {
+                "name": "테라피스트"
             }
         }
     },
@@ -54,6 +57,9 @@
             },
             "merchant": {
                 "name": "상인"
+            },
+            "dollkeeper": {
+                "name": "인형사"
             }
         }
     },
@@ -73,6 +79,14 @@
         "sub": {
             "charger": {
                 "name": "돌격수"
+            }
+        }
+    },
+    "TANK": {
+        "name": "디펜더",
+        "sub": {
+            "duelist": {
+                "name": "결전자"
             }
         }
     }
