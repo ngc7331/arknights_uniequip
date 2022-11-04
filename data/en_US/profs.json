@@ -43,6 +43,9 @@
         "sub": {
             "ringhealer": {
                 "name": "Multi-target Medic"
+            },
+            "healer": {
+                "name": "Therapist"
             }
         }
     },
@@ -54,6 +57,9 @@
             },
             "merchant": {
                 "name": "Merchant"
+            },
+            "dollkeeper": {
+                "name": "Dollkeeper"
             }
         }
     },
@@ -73,6 +79,14 @@
         "sub": {
             "charger": {
                 "name": "Charger"
+            }
+        }
+    },
+    "TANK": {
+        "name": "Defender",
+        "sub": {
+            "duelist": {
+                "name": "Duelist"
             }
         }
     }
