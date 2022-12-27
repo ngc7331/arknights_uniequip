@@ -71,6 +71,9 @@
             },
             "splashcaster": {
                 "name": "스플래시 캐스터"
+            },
+            "mystic": {
+                "name": "미스틱 캐스터"
             }
         }
     },
@@ -87,6 +90,9 @@
         "sub": {
             "duelist": {
                 "name": "결전자"
+            },
+            "guardian": {
+                "name": "가디언"
             }
         }
     }
