@@ -71,6 +71,9 @@
             },
             "splashcaster": {
                 "name": "拡散術師"
+            },
+            "mystic": {
+                "name": "秘術師"
             }
         }
     },
@@ -87,6 +90,9 @@
         "sub": {
             "duelist": {
                 "name": "決闘者"
+            },
+            "guardian": {
+                "name": "庇護衛士"
             }
         }
     }
