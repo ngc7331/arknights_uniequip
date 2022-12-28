@@ -71,6 +71,9 @@
             },
             "splashcaster": {
                 "name": "Splash Caster"
+            },
+            "mystic": {
+                "name": "Mystic Caster"
             }
         }
     },
@@ -87,6 +90,9 @@
         "sub": {
             "duelist": {
                 "name": "Duelist"
+            },
+            "guardian": {
+                "name": "Guardian"
             }
         }
     }

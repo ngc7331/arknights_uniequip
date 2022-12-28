@@ -219,6 +219,16 @@
         "prof": "CASTER",
         "subprof": "chain"
     },
+    "char_472_pasngr_2": {
+        "name": "Passenger",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Passenger, and have Passenger deal at least 30,000 damage",
+            "Clear Main Theme 5-10 with a 3-star rating; You must deploy your own Passenger, and have Passenger defeat at least 2 Defense Crushers"
+        ],
+        "op": "Main Theme 5-10",
+        "prof": "CASTER",
+        "subprof": "chain"
+    },
     "char_306_leizi_1": {
         "name": "Leizi",
         "desc": [
@@ -346,6 +356,16 @@
             "Clear Side Story GT-6; You must deploy your own Skadi, and have Skadi defeat at least 1 Big Bob"
         ],
         "op": "Side Story MN-8",
+        "prof": "WARRIOR",
+        "subprof": "fearless"
+    },
+    "char_263_skadi_2": {
+        "name": "Skadi",
+        "desc": [
+            "Defeat a total of 30 enemies with Skadi (excluding Support Units)",
+            "Clear Side Story GT-4 with a 3-star rating; You must deploy your own Skadi, and have Skadi defeat at least 2 Loggers"
+        ],
+        "op": "Side Story GT-4",
         "prof": "WARRIOR",
         "subprof": "fearless"
     },
@@ -738,5 +758,85 @@
         "op": "Intermezzo SV-4",
         "prof": "WARRIOR",
         "subprof": "sword"
+    },
+    "char_4046_ebnhlz_1": {
+        "name": "Ebenholz",
+        "desc": [
+            "Defeat a total of 10 elite or leader enemies with Ebenholz (excluding Support Units)",
+            "Clear Main Theme 3-7 with a 3-star rating; You must deploy your own Ebenholz, and have Ebenholz defeat at least 1 Heavy Defender Leader"
+        ],
+        "op": "Main Theme 3-7",
+        "prof": "CASTER",
+        "subprof": "mystic"
+    },
+    "char_338_iris_1": {
+        "name": "Iris",
+        "desc": [
+            "Defeat a total of 30 enemies with Iris (excluding Support Units)",
+            "Clear Main Theme 2-2 with a 3-star rating; You must deploy your own Iris, and have Iris defeat at least 2 Heavy Defenders"
+        ],
+        "op": "Main Theme 2-2",
+        "prof": "CASTER",
+        "subprof": "mystic"
+    },
+    "char_469_indigo_1": {
+        "name": "Indigo",
+        "desc": [
+            "Deal a total of 60,000 damage with Indigo (excluding Support Units)",
+            "Clear Intermezzo SV-5 with a 3-star rating; You must deploy your own Indigo, and use Labyrinth of Light 2 times"
+        ],
+        "op": "Intermezzo SV-5",
+        "prof": "CASTER",
+        "subprof": "mystic"
+    },
+    "char_202_demkni_1": {
+        "name": "Saria",
+        "desc": [
+            "During battle, have Saria use Calcification a total of 5 times (excluding Support Units)",
+            "Clear Side Story MB-3 with a 3-star rating; You must deploy your own Saria, and allow no Operators to be defeated"
+        ],
+        "op": "Side Story MB-3",
+        "prof": "TANK",
+        "subprof": "guardian"
+    },
+    "char_423_blemsh_1": {
+        "name": "Blemishine",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Blemishine, and unleash Divine Avatar at least 1 time in each battle",
+            "Clear Side Story MN-2 with a 3-star rating; You must deploy your own Blemishine, and only Defender Operators are allowed for the remaining members"
+        ],
+        "op": "Side Story MN-2",
+        "prof": "TANK",
+        "subprof": "guardian"
+    },
+    "char_148_nearl_1": {
+        "name": "Nearl",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Nearl, and unleash First Aid Mode at least 1 time in each battle",
+            "Clear Main Theme 1-12 with a 3-star rating; You must deploy your own Nearl, and allow no Operators to be defeated"
+        ],
+        "op": "Main Theme 1-12",
+        "prof": "TANK",
+        "subprof": "guardian"
+    },
+    "char_226_hmau_1": {
+        "name": "Hung",
+        "desc": [
+            "During battle, have Hung use Medical Mode Countermeasure a total of 5 times (excluding Support Units)",
+            "Clear Main Theme S2-4 with a 3-star rating using a squad of at most 3 units (including Support Units); a non-Support Hung must be in the squad and deployed, and only Caster Operators are allowed for the remaining units"
+        ],
+        "op": "Main Theme S2-4",
+        "prof": "TANK",
+        "subprof": "guardian"
+    },
+    "char_196_sunbr_1": {
+        "name": "Gummy",
+        "desc": [
+            "During battle, have Gummy use Cooking a total of 6 times (excluding Support Units)",
+            "Clear Main Theme 4-2 with a 3-star rating; You must deploy your own Gummy, and cannot include any other Defender Operators as members"
+        ],
+        "op": "Main Theme 4-2",
+        "prof": "TANK",
+        "subprof": "guardian"
     }
 }

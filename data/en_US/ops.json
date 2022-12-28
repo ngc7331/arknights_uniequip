@@ -56,6 +56,9 @@
     "Main Theme 2-2": {
         "name": "Main Theme 2-2"
     },
+    "Main Theme 5-10": {
+        "name": "Main Theme 5-10"
+    },
     "Main Theme 5-8": {
         "name": "Main Theme 5-8"
     },
@@ -82,6 +85,9 @@
     },
     "Side Story MN-8": {
         "name": "Side Story MN-8"
+    },
+    "Side Story GT-4": {
+        "name": "Side Story GT-4"
     },
     "Main Theme S4-3": {
         "name": "Main Theme S4-3"
@@ -166,5 +172,17 @@
     },
     "Intermezzo SV-4": {
         "name": "Intermezzo SV-4"
+    },
+    "Intermezzo SV-5": {
+        "name": "Intermezzo SV-5"
+    },
+    "Side Story MB-3": {
+        "name": "Side Story MB-3"
+    },
+    "Main Theme S2-4": {
+        "name": "Main Theme S2-4"
+    },
+    "Main Theme 4-2": {
+        "name": "Main Theme 4-2"
     }
 }
