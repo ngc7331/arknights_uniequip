@@ -60,6 +60,12 @@
             },
             "dollkeeper": {
                 "name": "傀儡師"
+            },
+            "hookmaster": {
+                "name": "鉤縄師"
+            },
+            "stalker": {
+                "name": "潜伏者"
             }
         }
     },
