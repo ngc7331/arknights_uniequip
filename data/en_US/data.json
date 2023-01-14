@@ -89,6 +89,16 @@
         "prof": "SNIPER",
         "subprof": "longrange"
     },
+    "char_430_fartth_2": {
+        "name": "Fartooth",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Fartooth, and unleash Feathershine Arrows at least 2 times in each battle",
+            "Clear Main Theme 2-5 with a 3-star rating; You must deploy your own Fartooth, and have Fartooth defeat at least 2 Senior Casters"
+        ],
+        "op": "Main Theme 2-5",
+        "prof": "SNIPER",
+        "subprof": "longrange"
+    },
     "char_158_milu_1": {
         "name": "Firewatch",
         "desc": [
@@ -669,6 +679,16 @@
         "prof": "SPECIAL",
         "subprof": "dollkeeper"
     },
+    "char_1023_ghost2_2": {
+        "name": "Specter the Unchained",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Specter the Unchained, and unleash The Pressure to Survive at least 1 time in each battle",
+            "Clear Main Theme S4-1 with a 3-star rating; You must deploy your own Specter the Unchained, and have Specter the Unchained defeat at least 10 enemies"
+        ],
+        "op": "Main Theme S4-1",
+        "prof": "SPECIAL",
+        "subprof": "dollkeeper"
+    },
     "char_369_bena_1": {
         "name": "Bena",
         "desc": [
@@ -838,5 +858,95 @@
         "op": "Main Theme 4-2",
         "prof": "TANK",
         "subprof": "guardian"
+    },
+    "char_474_glady_1": {
+        "name": "Gladiia",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Gladiia, and unleash Waterless Dance of the Shattered Maelstrom at least 1 time in each battle",
+            "Clear Intermezzo SV-EX-5 with a 3-star rating; You must deploy your own Gladiia, and have Gladiia cause at least 1 Nourished Reaper to fall in a pit"
+        ],
+        "op": "Intermezzo SV-EX-5",
+        "prof": "SPECIAL",
+        "subprof": "hookmaster"
+    },
+    "char_383_snsant_1": {
+        "name": "Snowsant",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Snowsant, and cause at least 2 enemies to fall in a pit in each battle",
+            "Clear Main Theme 4-6 with a 3-star rating; You must deploy your own Snowsant, and use Telescoping Electric Net at least 2 times"
+        ],
+        "op": "Main Theme 4-6",
+        "prof": "SPECIAL",
+        "subprof": "hookmaster"
+    },
+    "char_173_slchan_1": {
+        "name": "Cliffheart",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Cliffheart, and cause at least 2 enemies to fall in a pit in each battle",
+            "Clear Side Story MN-4 with a 3-star rating; You must deploy your own Cliffheart, and cannot include any other Specialist Operators as members"
+        ],
+        "op": "Side Story MN-4",
+        "prof": "SPECIAL",
+        "subprof": "hookmaster"
+    },
+    "char_236_rope_1": {
+        "name": "Rope",
+        "desc": [
+            "During battle, have Rope use Double Hook a total of 10 times (excluding Support Units)",
+            "Clear Main Theme 3-3 with a 3-star rating; You must deploy your own Rope, and cause Crownslayer to fall into a pit"
+        ],
+        "op": "Main Theme 3-3",
+        "prof": "SPECIAL",
+        "subprof": "hookmaster"
+    },
+    "char_4055_bgsnow_1": {
+        "name": "Pozëmka",
+        "desc": [
+            "Summon a total of 10 'Typewriters' with Pozëmka (excluding Support Units)",
+            "Clear Main Theme 2-10 with a 3-star rating; You must deploy your own Pozëmka, and have Pozëmka or a 'Typewriter' defeat Skullshatterer"
+        ],
+        "op": "Main Theme 2-10",
+        "prof": "SNIPER",
+        "subprof": "closerange"
+    },
+    "char_437_mizuki_1": {
+        "name": "Mizuki",
+        "desc": [
+            "Deal a total of 150,000 damage with Mizuki (excluding Support Units)",
+            "Clear Main Theme 4-3 with a 3-star rating; You must deploy your own Mizuki, and have Mizuki defeat at least 2 Sarkaz Crossbowmen"
+        ],
+        "op": "Main Theme 4-3",
+        "prof": "SPECIAL",
+        "subprof": "stalker"
+    },
+    "char_215_mantic_1": {
+        "name": "Manticore",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Manticore, and unleash Toxic Overload at least 1 time in each battle",
+            "Clear Main Theme 1-9 with a 3-star rating; You must deploy your own Manticore, and can only include 1 other Operator as a member"
+        ],
+        "op": "Main Theme 1-9",
+        "prof": "SPECIAL",
+        "subprof": "stalker"
+    },
+    "char_478_kirara_1": {
+        "name": "Kirara",
+        "desc": [
+            "During battle, have Kirara use Anchor Point Snap a total of 5 times (excluding Support Units)",
+            "Clear Main Theme 3-1 with a 3-star rating; You must deploy your own Kirara, and have Kirara defeat at least 20 enemies"
+        ],
+        "op": "Main Theme 3-1",
+        "prof": "SPECIAL",
+        "subprof": "stalker"
+    },
+    "char_355_ethan_1": {
+        "name": "Ethan",
+        "desc": [
+            "During battle, have Ethan use Suspended Cross a total of 5 times (excluding Support Units)",
+            "Clear Side Story TW-3 with a 3-star rating; You must deploy your own Ethan, and can only include 4 other Operators as members"
+        ],
+        "op": "Side Story TW-3",
+        "prof": "SPECIAL",
+        "subprof": "stalker"
     }
 }

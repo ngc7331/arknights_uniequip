@@ -60,6 +60,12 @@
             },
             "dollkeeper": {
                 "name": "Dollkeeper"
+            },
+            "hookmaster": {
+                "name": "Hookmaster"
+            },
+            "stalker": {
+                "name": "Ambusher"
             }
         }
     },
