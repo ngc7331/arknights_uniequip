@@ -92,6 +92,9 @@
             },
             "mystic": {
                 "name": "秘术师"
+            },
+            "corecaster": {
+                "name": "中坚术师"
             }
         }
     },
