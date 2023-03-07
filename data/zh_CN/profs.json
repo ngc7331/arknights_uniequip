@@ -78,6 +78,9 @@
             },
             "stalker": {
                 "name": "伏击客"
+            },
+            "pusher": {
+                "name": "推击手"
             }
         }
     },
@@ -95,6 +98,9 @@
             },
             "corecaster": {
                 "name": "中坚术师"
+            },
+            "blastcaster": {
+                "name": "轰击术师"
             }
         }
     },
