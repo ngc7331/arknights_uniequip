@@ -35,6 +35,9 @@
             },
             "closerange": {
                 "name": "헤비슈터"
+            },
+            "fastshot": {
+                "name": "명사수"
             }
         }
     },
