@@ -35,6 +35,9 @@
             },
             "closerange": {
                 "name": "Heavyshooter"
+            },
+            "fastshot": {
+                "name": "Marksman"
             }
         }
     },

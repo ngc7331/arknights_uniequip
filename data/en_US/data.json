@@ -9,6 +9,16 @@
         "prof": "SUPPORT",
         "subprof": "summoner"
     },
+    "char_248_mgllan_2": {
+        "name": "Magallan",
+        "desc": [
+            "Summon a total of 45 summoned units with Magallan (excluding Support Units)",
+            "Clear Main Theme 2-2 with a 3-star rating; You must deploy your own Magallan, and only Vanguard Operators are allowed for the remaining members"
+        ],
+        "op": "Main Theme 2-2",
+        "prof": "SUPPORT",
+        "subprof": "summoner"
+    },
     "char_336_folivo_1": {
         "name": "Scene",
         "desc": [
@@ -46,6 +56,16 @@
             "Clear Main Theme 3-6 with a 3-star rating using a squad of at most 2 units (including Support Units); a non-Support Pallas must be deployed during the operation and only Medic operators are allowed for the remaining units"
         ],
         "op": "Main Theme 3-6",
+        "prof": "WARRIOR",
+        "subprof": "instructor"
+    },
+    "char_485_pallas_2": {
+        "name": "Pallas",
+        "desc": [
+            "During battle, have Pallas use Blessing of Heroism a total of 5 times (excluding Support Units)",
+            "Clear Main Theme 4-3 with a 3-star rating; You must deploy your own Pallas, and only Defender Operators are allowed for the remaining members"
+        ],
+        "op": "Main Theme 4-3",
         "prof": "WARRIOR",
         "subprof": "instructor"
     },
@@ -858,6 +878,136 @@
         "op": "Main Theme 4-2",
         "prof": "TANK",
         "subprof": "guardian"
+    },
+    "char_235_jesica_1": {
+        "name": "Jessica",
+        "desc": [
+            "During battle, have Jessica use Smokescreen a total of 5 times (excluding Support Units)",
+            "Clear Intermezzo SV-4 with a 3-star rating; You must deploy your own Jessica, and use Smokescreen at least 1 time"
+        ],
+        "op": "Intermezzo SV-4",
+        "prof": "SNIPER",
+        "subprof": "fastshot"
+    },
+    "char_126_shotst_1": {
+        "name": "Meteor",
+        "desc": [
+            "Defeat a total of 30 enemies with Meteor (excluding Support Units)",
+            "Clear Main Theme 2-7 with a 3-star rating; You must deploy your own Meteor, and have Meteor defeat at least 2 Defender-4s"
+        ],
+        "op": "Main Theme 2-7",
+        "prof": "SNIPER",
+        "subprof": "fastshot"
+    },
+    "char_190_clour_1": {
+        "name": "Vermeil",
+        "desc": [
+            "Deal a total of 60,000 damage with Vermeil (excluding Support Units)",
+            "Clear Main Theme 3-1 with a 3-star rating; You must deploy your own Vermeil, and only Vanguard Operators are allowed for the remaining members"
+        ],
+        "op": "Main Theme 3-1",
+        "prof": "SNIPER",
+        "subprof": "fastshot"
+    },
+    "char_133_mm_1": {
+        "name": "May",
+        "desc": [
+            "During battle, have May use Binding Shock a total of 5 times (excluding Support Units)",
+            "Clear Main Theme 4-4 with a 3-star rating; You must deploy your own May, and cannot include any other Sniper Operators as members"
+        ],
+        "op": "Main Theme 4-4",
+        "prof": "SNIPER",
+        "subprof": "fastshot"
+    },
+    "char_129_bluep_1": {
+        "name": "Blue Poison",
+        "desc": [
+            "Deal a total of 80,000 damage with Blue Poison (excluding Support Units)",
+            "Clear Main Theme 3-4 with a 3-star rating; You must deploy your own Blue Poison, and only Guard Operators are allowed for the remaining members"
+        ],
+        "op": "Main Theme 3-4",
+        "prof": "SNIPER",
+        "subprof": "fastshot"
+    },
+    "char_204_platnm_1": {
+        "name": "Platinum",
+        "desc": [
+            "Defeat a total of 30 enemies with Platinum (excluding Support Units)",
+            "Clear Main Theme 5-7 with a 3-star rating; You must deploy your own Platinum, and have Platinum defeat at least 2 Frosts"
+        ],
+        "op": "Main Theme 5-7",
+        "prof": "SNIPER",
+        "subprof": "fastshot"
+    },
+    "char_367_swllow_1": {
+        "name": "GreyThroat",
+        "desc": [
+            "During battle, have GreyThroat use Counterflow a total of 5 times (excluding Support Units)",
+            "Clear Main Theme 2-10 with a 3-star rating; You must deploy your own GreyThroat, and have GreyThroat defeat Skullshatterer"
+        ],
+        "op": "Main Theme 2-10",
+        "prof": "SNIPER",
+        "subprof": "fastshot"
+    },
+    "char_365_aprl_1": {
+        "name": "April",
+        "desc": [
+            "During battle, deploy April a total of 8 times (excluding Support Units)",
+            "Clear Main Theme 5-3 with a 3-star rating; You must deploy your own April, and have April defeat at least 2 Spec Ops Caster Leaders"
+        ],
+        "op": "Main Theme 5-3",
+        "prof": "SNIPER",
+        "subprof": "fastshot"
+    },
+    "char_1021_kroos2_1": {
+        "name": "Kroos the Keen Glint",
+        "desc": [
+            "During battle, have Kroos the Keen Glint use Silencer a total of 5 times (excluding Support Units)",
+            "Clear Main Theme 3-8 with a 3-star rating; You must deploy your own Kroos the Keen Glint, and have Kroos the Keen Glint defeat Skullshatterer"
+        ],
+        "op": "Main Theme 3-8",
+        "prof": "SNIPER",
+        "subprof": "fastshot"
+    },
+    "char_103_angel_1": {
+        "name": "Exusiai",
+        "desc": [
+            "Deal a total of 100,000 damage with Exusiai (excluding Support Units)",
+            "Clear Main Theme 4-10 with a 3-star rating; You must deploy your own Exusiai, and have Exusiai defeat FrostNova"
+        ],
+        "op": "Main Theme 4-10",
+        "prof": "SNIPER",
+        "subprof": "fastshot"
+    },
+    "char_332_archet_1": {
+        "name": "Archetto",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Archetto, and have Archetto defeat at least 5 enemies",
+            "Clear Main Theme 2-9 with a 3-star rating; You must deploy your own Archetto, and cannot include any other Sniper Operators as members"
+        ],
+        "op": "Main Theme 2-9",
+        "prof": "SNIPER",
+        "subprof": "fastshot"
+    },
+    "char_456_ash_1": {
+        "name": "Ash",
+        "desc": [
+            "Defeat a total of 10 elite enemies with Ash (excluding Support Units)",
+            "Clear Main Theme 1-12 with a 3-star rating; You must deploy your own Ash, and have Ash defeat W"
+        ],
+        "op": "Main Theme 1-12",
+        "prof": "SNIPER",
+        "subprof": "fastshot"
+    },
+    "char_135_halo_1": {
+        "name": "Astgenne",
+        "desc": [
+            "Defeat a total of 40 enemies with Astgenne (excluding Support Units)",
+            "Clear Main Theme 4-3 with a 3-star rating; You must deploy your own Astgenne, and only Defender Operators are allowed for the remaining members"
+        ],
+        "op": "Main Theme 4-3",
+        "prof": "CASTER",
+        "subprof": "chain"
     },
     "char_474_glady_1": {
         "name": "Gladiia",
