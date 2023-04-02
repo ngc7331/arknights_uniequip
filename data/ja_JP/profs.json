@@ -102,6 +102,9 @@
             },
             "guardian": {
                 "name": "庇護衛士"
+            },
+            "protector": {
+                "name": "重盾衛士"
             }
         }
     }
