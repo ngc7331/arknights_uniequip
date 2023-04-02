@@ -102,6 +102,9 @@
             },
             "guardian": {
                 "name": "가디언"
+            },
+            "protector": {
+                "name": "프로텍터"
             }
         }
     }
