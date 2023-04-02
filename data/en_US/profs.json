@@ -102,6 +102,9 @@
             },
             "guardian": {
                 "name": "Guardian"
+            },
+            "protector": {
+                "name": "Protector"
             }
         }
     }

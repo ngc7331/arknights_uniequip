@@ -779,6 +779,16 @@
         "prof": "TANK",
         "subprof": "duelist"
     },
+    "char_416_zumama_2": {
+        "name": "Eunectes",
+        "desc": [
+            "Defeat a total of 10 elite or leader enemies with Eunectes (excluding Support Units)",
+            "Clear Side Story RI-7 with a 3-star rating; You must deploy your own Eunectes, and have Eunectes defeat at least 2 Tiacauh Braves"
+        ],
+        "op": "Side Story RI-7",
+        "prof": "TANK",
+        "subprof": "duelist"
+    },
     "char_422_aurora_1": {
         "name": "Aurora",
         "desc": [
@@ -806,6 +816,16 @@
             "Clear Main Theme 3-7 with a 3-star rating; You must deploy your own Ebenholz, and have Ebenholz defeat at least 1 Heavy Defender Leader"
         ],
         "op": "Main Theme 3-7",
+        "prof": "CASTER",
+        "subprof": "mystic"
+    },
+    "char_4046_ebnhlz_2": {
+        "name": "Ebenholz",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Ebenholz, and have Ebenholz defeat at least 6 enemies",
+            "Clear Main Theme 3-6 with a 3-star rating; You must deploy your own Ebenholz, and have Ebenholz defeat the Veteran Butcher"
+        ],
+        "op": "Main Theme 3-6",
         "prof": "CASTER",
         "subprof": "mystic"
     },
@@ -1098,5 +1118,95 @@
         "op": "Side Story TW-3",
         "prof": "SPECIAL",
         "subprof": "stalker"
+    },
+    "char_4032_provs_1": {
+        "name": "Proviso",
+        "desc": [
+            "During battle, have Proviso use Prevailing Argument a total of 14 times (excluding Support Units)",
+            "Clear Main Theme 4-7 with a 3-star rating; You must deploy your own Proviso, and have Proviso defeat at least 3 Infused Originium Slugs."
+        ],
+        "op": "Main Theme 4-7",
+        "prof": "SUPPORT",
+        "subprof": "slower"
+    },
+    "char_199_yak_1": {
+        "name": "Matterhorn",
+        "desc": [
+            "During battle, have Matterhorn use Cold Resistance a total of 8 times (excluding Support Units)",
+            "Clear Main Theme 3-6 with a 3-star rating; The only Defender Operator that can be deployed is your own Matterhorn"
+        ],
+        "op": "Main Theme 3-6",
+        "prof": "TANK",
+        "subprof": "protector"
+    },
+    "char_150_snakek_1": {
+        "name": "Cuora",
+        "desc": [
+            "During battle, have Cuora use Shell Defense a total of 8 times (excluding Support Units)",
+            "Clear Main Theme 2-10 with a 3-star rating; You must deploy your own Cuora, and cannot include any other Defender Operators as members"
+        ],
+        "op": "Main Theme 2-10",
+        "prof": "TANK",
+        "subprof": "protector"
+    },
+    "char_381_bubble_1": {
+        "name": "Bubble",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Bubble, and unleash 'Beaten Up' at least 1 time in each battle",
+            "Clear Main Theme 4-6 with a 3-star rating; You must deploy your own Bubble, and have Bubble defeat at least 8 enemies"
+        ],
+        "op": "Main Theme 4-6",
+        "prof": "TANK",
+        "subprof": "protector"
+    },
+    "char_201_moeshd_1": {
+        "name": "Croissant",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Croissant, and cause at least 3 enemies to fall in a pit in each battle",
+            "Clear Main Theme 2-8 with a 3-star rating; You must deploy your own Croissant, and use Magnetic Hammer 2 times"
+        ],
+        "op": "Main Theme 2-8",
+        "prof": "TANK",
+        "subprof": "protector"
+    },
+    "char_325_bison_1": {
+        "name": "Bison",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Bison, and unleash Intensified Defense at least 2 times in each battle",
+            "Clear Main Theme 3-7 with a 3-star rating; The only Defender Operator that can be deployed is your own Bison"
+        ],
+        "op": "Main Theme 3-7",
+        "prof": "TANK",
+        "subprof": "protector"
+    },
+    "char_304_zebra_1": {
+        "name": "Heavyrain",
+        "desc": [
+            "During battle, have Heavyrain use Emergency Camouflage a total of 30 times (excluding Support Units)",
+            "Clear Main Theme 2-7 with a 3-star rating; You must deploy your own Heavyrain, and allow no Operators to be defeated"
+        ],
+        "op": "Main Theme 2-7",
+        "prof": "TANK",
+        "subprof": "protector"
+    },
+    "char_136_hsguma_1": {
+        "name": "Hoshiguma",
+        "desc": [
+            "Defeat a total of 60 enemies with Hoshiguma (excluding Support Units)",
+            "Clear Main Theme 3-1 with a 3-star rating; You must deploy your own Hoshiguma, and can only include 4 other Operators as members"
+        ],
+        "op": "Main Theme 3-1",
+        "prof": "TANK",
+        "subprof": "protector"
+    },
+    "char_2014_nian_1": {
+        "name": "Nian",
+        "desc": [
+            "Deal a total of 60,000 damage with Nian (excluding Support Units)",
+            "Clear Side Story WR-9 with a 3-star rating; You must deploy your own Nian, and have Nian defeat at least 10 enemies"
+        ],
+        "op": "Side Story WR-9",
+        "prof": "TANK",
+        "subprof": "protector"
     }
 }
