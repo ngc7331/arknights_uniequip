@@ -81,6 +81,9 @@
             },
             "pusher": {
                 "name": "推击手"
+            },
+            "traper": {
+                "name": "陷阱师"
             }
         }
     },
@@ -101,6 +104,9 @@
             },
             "blastcaster": {
                 "name": "轰击术师"
+            },
+            "phalanx": {
+                "name": "阵法术师"
             }
         }
     },
