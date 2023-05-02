@@ -7,6 +7,9 @@
             },
             "slower": {
                 "name": "凝滞师"
+            },
+            "underminer": {
+                "name": "削弱者"
             }
         }
     },
@@ -44,6 +47,9 @@
             },
             "siegesniper": {
                 "name": "攻城手"
+            },
+            "bombarder": {
+                "name": "投掷手"
             }
         }
     },

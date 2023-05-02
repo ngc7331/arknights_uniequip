@@ -489,6 +489,16 @@
         "prof": "SNIPER",
         "subprof": "aoesniper"
     },
+    "char_113_cqbw_2": {
+        "name": "W",
+        "desc": [
+            "战斗中非助战W累计使用惊吓盒子10次",
+            "3星通关插曲DM-7；必须编入非助战W并上场，且不编入特种干员"
+        ],
+        "op": "插曲DM-7",
+        "prof": "SNIPER",
+        "subprof": "aoesniper"
+    },
     "char_300_phenxi_1": {
         "name": "菲亚梅塔",
         "desc": [
@@ -1309,6 +1319,16 @@
         "prof": "MEDIC",
         "subprof": "physician"
     },
+    "char_003_kalts_2": {
+        "name": "凯尔希",
+        "desc": [
+            "战斗中非助战凯尔希累计使用指令：熔毁10次",
+            "3星通关主题曲5-10；必须编入非助战凯尔希并上场，且使用凯尔希歼灭梅菲斯特"
+        ],
+        "op": "主题曲5-10",
+        "prof": "MEDIC",
+        "subprof": "physician"
+    },
     "char_147_shining_1": {
         "name": "闪灵",
         "desc": [
@@ -1858,5 +1878,75 @@
         "op": "主题曲4-4",
         "prof": "WARRIOR",
         "subprof": "fearless"
+    },
+    "char_206_gnosis_1": {
+        "name": "灵知",
+        "desc": [
+            "完成5次战斗；必须编入非助战灵知并上场，且每次战斗至少释放1次失温症",
+            "3星通关别传BI-7，必须编入非助战灵知并上场，且不编入其他辅助干员"
+        ],
+        "op": "主题曲4-4",
+        "prof": "SUPPORT",
+        "subprof": "underminer"
+    },
+    "char_174_slbell_1": {
+        "name": "初雪",
+        "desc": [
+            "由非助战初雪累计造成60000点伤害",
+            "3星通关主题曲2-3；必须编入非助战初雪并上场，其他成员仅可编入6名干员"
+        ],
+        "op": "主题曲2-3",
+        "prof": "SUPPORT",
+        "subprof": "underminer"
+    },
+    "char_254_vodfox_1": {
+        "name": "巫恋",
+        "desc": [
+            "战斗中非助战巫恋累计使用诅咒娃娃10次",
+            "3星通关主题曲6-5；必须编入非助战巫恋并上场，且不编入其他辅助干员"
+        ],
+        "op": "主题曲6-5",
+        "prof": "SUPPORT",
+        "subprof": "underminer"
+    },
+    "char_391_rosmon_1": {
+        "name": "迷迭香",
+        "desc": [
+            "由非助战迷迭香累计造成120000点伤害",
+            "3星通关主题曲4-1，必须编入非助战迷迭香并上场，且使用迷迭香至少歼灭10名敌人"
+        ],
+        "op": "主题曲6-5",
+        "prof": "SNIPER",
+        "subprof": "bombarder"
+    },
+    "char_1027_greyy2_1": {
+        "name": "承曦格雷伊",
+        "desc": [
+            "战斗中非助战承曦格雷伊累计使用晨曦信标10次",
+            "3星通关主题曲1-3；必须编入非助战承曦格雷伊并上场，其他成员仅可编入先锋干员"
+        ],
+        "op": "主题曲1-3",
+        "prof": "SNIPER",
+        "subprof": "bombarder"
+    },
+    "char_4027_heyak_1": {
+        "name": "霍尔海雅",
+        "desc": [
+            "由非助战霍尔海雅累计造成120000点伤害",
+            "3星通关别传OF-7；必须编入非助战霍尔海雅并上场，且至少使用2次博览者的狂语"
+        ],
+        "op": "别传OF-7",
+        "prof": "CASTER",
+        "subprof": "corecaster"
+    },
+    "char_4006_melnte_1": {
+        "name": "玫拉",
+        "desc": [
+            "完成5次战斗；必须编入非助战玫拉并上场，且每次战斗至少释放1次临界爆发",
+            "3星通关主题曲S3-5；必须编入非助战玫拉并上场，其他成员仅可编入6名干员"
+        ],
+        "op": "主题曲S3-5",
+        "prof": "SNIPER",
+        "subprof": "closerange"
     }
 }
