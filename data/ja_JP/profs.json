@@ -49,6 +49,9 @@
             },
             "healer": {
                 "name": "療養師"
+            },
+            "physician": {
+                "name": "医師"
             }
         }
     },
@@ -91,6 +94,9 @@
         "sub": {
             "charger": {
                 "name": "突撃兵"
+            },
+            "pioneer": {
+                "name": "先駆兵"
             }
         }
     },
