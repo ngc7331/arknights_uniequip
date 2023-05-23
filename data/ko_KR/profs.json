@@ -49,6 +49,9 @@
             },
             "healer": {
                 "name": "테라피스트"
+            },
+            "physician": {
+                "name": "메딕"
             }
         }
     },
@@ -91,6 +94,9 @@
         "sub": {
             "charger": {
                 "name": "돌격수"
+            },
+            "pioneer": {
+                "name": "척후병"
             }
         }
     },
