@@ -49,6 +49,9 @@
             },
             "healer": {
                 "name": "Therapist"
+            },
+            "physician": {
+                "name": "Medic"
             }
         }
     },
@@ -91,6 +94,9 @@
         "sub": {
             "charger": {
                 "name": "Charger"
+            },
+            "pioneer": {
+                "name": "Pioneer"
             }
         }
     },
