@@ -10,6 +10,9 @@
             },
             "underminer": {
                 "name": "削弱者"
+            },
+            "craftsman": {
+                "name": "工匠"
             }
         }
     },
@@ -90,6 +93,9 @@
             },
             "traper": {
                 "name": "陷阱师"
+            },
+            "geek": {
+                "name": "怪杰"
             }
         }
     },
