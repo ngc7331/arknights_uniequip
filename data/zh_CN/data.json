@@ -199,6 +199,16 @@
         "prof": "SPECIAL",
         "subprof": "executor"
     },
+    "char_250_phatom_2": {
+        "name": "傀影",
+        "desc": [
+            "完成5次战斗；每次战斗至少部署2次非助战的傀影",
+            "3星通关插曲DM-5；必须编入非助战傀影并上场，且使用傀影击败至少两名萨卡兹哨兵"
+        ],
+        "op": "插曲DM-5",
+        "prof": "SPECIAL",
+        "subprof": "executor"
+    },
     "char_214_kafka_1": {
         "name": "卡夫卡",
         "desc": [
@@ -1599,6 +1609,16 @@
         "prof": "WARRIOR",
         "subprof": "musha"
     },
+    "char_188_helage_2": {
+        "name": "赫拉格",
+        "desc": [
+            "由非助战隐赫拉格累计造成30歼灭数",
+            "3星通关主题曲7-10；必须编入非助战赫拉格并上场，其他成员仅可编入3名干员"
+        ],
+        "op": "主题曲7-10",
+        "prof": "WARRIOR",
+        "subprof": "musha"
+    },
     "char_475_akafyu_1": {
         "name": "赤冬",
         "desc": [
@@ -2028,5 +2048,55 @@
         "op": "主题曲3-4",
         "prof": "SNIPER",
         "subprof": "fastshot"
+    },
+    "char_341_sntlla_1": {
+        "name": "寒檀",
+        "desc": [
+            "完成5次战斗；必须编入非助战寒檀并上场，且每次战斗至少释放1次“女巫之泪”",
+            "3星通关别传BI-2；必须编入非助战寒檀并上场，且使用寒檀至少歼灭8个敌人"
+        ],
+        "op": "别传BI-2",
+        "prof": "CASTER",
+        "subprof": "splashcaster"
+    },
+    "char_401_elysm_1": {
+        "name": "极境",
+        "desc": [
+            "战斗中非助战极境累计使用支援号令·γ型10次",
+            "3星通关主题曲S3-6；必须编入非助战极境并上场，且不编入其他先锋干员"
+        ],
+        "op": "主题曲S3-6",
+        "prof": "PIONEER",
+        "subprof": "bearer"
+    },
+    "char_479_sleach_1": {
+        "name": "琴柳",
+        "desc": [
+            "战斗中非助战琴柳累计使用信仰传承10次",
+            "3星通关主题曲9-2；必须编入非助战琴柳并上场，且不编入其他先锋干员"
+        ],
+        "op": "主题曲9-2",
+        "prof": "PIONEER",
+        "subprof": "bearer"
+    },
+    "char_151_myrtle_1": {
+        "name": "桃金娘",
+        "desc": [
+            "战斗中非助战桃金娘累计使用支援号令·β型10次",
+            "3星通关主题曲6-3；必须编入非助战桃金娘并上场，且不编入其他先锋干员"
+        ],
+        "op": "主题曲6-3",
+        "prof": "PIONEER",
+        "subprof": "bearer"
+    },
+    "char_2012_typhon_1": {
+        "name": "提丰",
+        "desc": [
+            "由非助战提丰累计造成120000点伤害",
+            "3星通关主题曲S2-1；必须编入非助战提丰并上场，其他成员仅可编入近战位干员"
+        ],
+        "op": "主题曲S2-1",
+        "prof": "SNIPER",
+        "subprof": "siegesniper"
     }
 }
