@@ -21,6 +21,9 @@
             },
             "fearless": {
                 "name": "드레드노트"
+            },
+            "musha": {
+                "name": "무사"
             }
         }
     },
@@ -38,6 +41,9 @@
             },
             "fastshot": {
                 "name": "명사수"
+            },
+            "siegesniper": {
+                "name": "공성사수"
             }
         }
     },
