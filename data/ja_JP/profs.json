@@ -21,6 +21,9 @@
             },
             "fearless": {
                 "name": "勇士"
+            },
+            "musha": {
+                "name": "武者"
             }
         }
     },
@@ -38,6 +41,9 @@
             },
             "fastshot": {
                 "name": "速射手"
+            },
+            "siegesniper": {
+                "name": "破城射手"
             }
         }
     },
