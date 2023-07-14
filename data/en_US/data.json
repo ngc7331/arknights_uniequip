@@ -1039,6 +1039,16 @@
         "prof": "SNIPER",
         "subprof": "fastshot"
     },
+    "char_332_archet_2": {
+        "name": "Archetto",
+        "desc": [
+            "Deal a total of 100,000 damage with Archetto (excluding Support Units)",
+            "Clear Intermezzi SV-4 with a 3-star rating; You must deploy your own Archetto, and cannot include any other Sniper Operators as members"
+        ],
+        "op": "Intermezzi SV-4",
+        "prof": "SNIPER",
+        "subprof": "fastshot"
+    },
     "char_456_ash_1": {
         "name": "Ash",
         "desc": [
@@ -1116,6 +1126,16 @@
             "Clear Main Theme 4-3 with a 3-star rating; You must deploy your own Mizuki, and have Mizuki defeat at least 2 Sarkaz Crossbowmen"
         ],
         "op": "Main Theme 4-3",
+        "prof": "SPECIAL",
+        "subprof": "stalker"
+    },
+    "char_437_mizuki_2": {
+        "name": "Mizuki",
+        "desc": [
+            "Defeat a total of 50 enemies with Mizuki (excluding Support Units)",
+            "Clear Main Theme 4-5 with a 3-star rating; You must deploy your own Mizuki, and have Mizuki defeat at least 10 enemies"
+        ],
+        "op": "Main Theme 4-5",
         "prof": "SPECIAL",
         "subprof": "stalker"
     },
@@ -1438,5 +1458,85 @@
         "op": "Main Theme 2-5",
         "prof": "SNIPER",
         "subprof": "longrange"
+    },
+    "char_197_poca_1": {
+        "name": "Rosa",
+        "desc": [
+            "Deal a total of 80,000 damage with Rosa (excluding Support Units)",
+            "Clear Main Theme 7-9 with a 3-star rating; You must deploy your own Rosa, and cannot include any other Sniper Operators as members"
+        ],
+        "op": "Main Theme 7-9",
+        "prof": "SNIPER",
+        "subprof": "siegesniper"
+    },
+    "char_4062_totter_1": {
+        "name": "Totter",
+        "desc": [
+            "Defeat a total of 30 enemies with Totter (excluding Support Units)",
+            "Clear Main Theme S3-5 with a 3-star rating; You must deploy your own Totter, and have Totter defeat at least 2 Invisible Crossbowmen"
+        ],
+        "op": "Main Theme S3-5",
+        "prof": "SNIPER",
+        "subprof": "siegesniper"
+    },
+    "char_363_toddi_1": {
+        "name": "Toddifons",
+        "desc": [
+            "Defeat a total of 20 Sarkaz enemies with Toddifons (excluding Support Units)",
+            "Clear Main Theme 4-6 with a 3-star rating; You must deploy your own Toddifons, and can only include 6 other Operators as members"
+        ],
+        "op": "Main Theme 4-6",
+        "prof": "SNIPER",
+        "subprof": "siegesniper"
+    },
+    "char_4043_erato_1": {
+        "name": "Erato",
+        "desc": [
+            "During battle, have Erato use Heroes' Paean a total of 5 times (excluding Support Units)",
+            "Clear Main Theme S5-9 with a 3-star rating; You must deploy your own Erato, and cannot include any other Sniper Operators as members"
+        ],
+        "op": "Main Theme S5-9",
+        "prof": "SNIPER",
+        "subprof": "siegesniper"
+    },
+    "char_188_helage_1": {
+        "name": "Hellagur",
+        "desc": [
+            "Defeat a total of 10 elite or leader enemies with Hellagur (excluding Support Units)",
+            "Clear Main Theme 5-10 with a 3-star rating; You must deploy your own Hellagur, and have Hellagur defeat Mephisto"
+        ],
+        "op": "Main Theme 5-10",
+        "prof": "WARRIOR",
+        "subprof": "musha"
+    },
+    "char_475_akafyu_1": {
+        "name": "Akafuyu",
+        "desc": [
+            "During battle, have Akafuyu use Nobukage-ryu - Juumonji Masaru a total of 5 times (excluding Support Units)",
+            "Clear Main Theme 3-8 with a 3-star rating; You must deploy your own Akafuyu, and have Akafuyu defeat Skullshatterer"
+        ],
+        "op": "Main Theme 3-8",
+        "prof": "WARRIOR",
+        "subprof": "musha"
+    },
+    "char_337_utage_1": {
+        "name": "Utage",
+        "desc": [
+            "During battle, have Utage use Descending Strike - Earth Splitter a total of 5 times (excluding Support Units)",
+            "Clear Main Theme 1-12 with a 3-star rating; You must deploy your own Utage, and cannot include any other Guard Operators as members"
+        ],
+        "op": "Main Theme 1-12",
+        "prof": "WARRIOR",
+        "subprof": "musha"
+    },
+    "char_297_hamoni_1": {
+        "name": "Harmonie",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Harmonie, and unleash A Disastrous Drowning at least 1 time in each battle",
+            "Clear Main Theme 6-5 with a 3-star rating; You must deploy your own Harmonie, and have Harmonie defeat at least 2 Possessed Heavy Defenders"
+        ],
+        "op": "Main Theme 6-5",
+        "prof": "CASTER",
+        "subprof": "mystic"
     }
 }

@@ -21,6 +21,9 @@
             },
             "fearless": {
                 "name": "Dreadnought"
+            },
+            "musha": {
+                "name": "Musha"
             }
         }
     },
@@ -38,6 +41,9 @@
             },
             "fastshot": {
                 "name": "Marksman"
+            },
+            "siegesniper": {
+                "name": "Besieger"
             }
         }
     },
