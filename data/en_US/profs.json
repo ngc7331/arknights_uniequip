@@ -92,6 +92,9 @@
             },
             "mystic": {
                 "name": "Mystic Caster"
+            },
+            "corecaster": {
+                "name": "Core Caster"
             }
         }
     },

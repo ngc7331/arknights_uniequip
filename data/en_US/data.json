@@ -769,6 +769,16 @@
         "prof": "MEDIC",
         "subprof": "healer"
     },
+    "char_4042_lumen_2": {
+        "name": "Lumen",
+        "desc": [
+            "During battle, have Lumen use In Downpour, Grace a total of 10 times (excluding Support Units)",
+            "Clear Side Story OF-5 with a 3-star rating; You must deploy your own Lumen, and cannot include any other Medic Operators as members"
+        ],
+        "op": "Side Story OF-5",
+        "prof": "MEDIC",
+        "subprof": "healer"
+    },
     "char_348_ceylon_1": {
         "name": "Ceylon",
         "desc": [
@@ -886,6 +896,16 @@
             "Clear Side Story MB-3 with a 3-star rating; You must deploy your own Saria, and allow no Operators to be defeated"
         ],
         "op": "Side Story MB-3",
+        "prof": "TANK",
+        "subprof": "guardian"
+    },
+    "char_202_demkni_2": {
+        "name": "Saria",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Saria, and unleash Medicine Dispensing at least 3 times in each battle",
+            "Clear Main Theme 4-6 with a 3-star rating; You must deploy your own Saria, and cannot include any Medic Operators as members"
+        ],
+        "op": "Main Theme 4-6",
         "prof": "TANK",
         "subprof": "guardian"
     },
@@ -1538,5 +1558,95 @@
         "op": "Main Theme 6-5",
         "prof": "CASTER",
         "subprof": "mystic"
+    },
+    "char_180_amgoat_1": {
+        "name": "Eyjafjalla",
+        "desc": [
+            "Deal a total of 100,000 damage with Eyjafjalla (excluding Support Units)",
+            "Clear Side Story OF-5 with a 3-star rating; You must deploy your own Eyjafjalla, and can only include 3 other Operators as members"
+        ],
+        "op": "Side Story OF-5",
+        "prof": "CASTER",
+        "subprof": "corecaster"
+    },
+    "char_2013_cerber_1": {
+        "name": "Ceobe",
+        "desc": [
+            "Defeat a total of 10 elite or leader enemies with Ceobe (excluding Support Units)",
+            "Clear Side Story RI-6 with a 3-star rating; You must deploy your own Ceobe, and have Ceobe defeat at least 2 Tiacauh Shredders"
+        ],
+        "op": "Side Story RI-6",
+        "prof": "CASTER",
+        "subprof": "corecaster"
+    },
+    "char_405_absin_1": {
+        "name": "Absinthe",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Absinthe, and unleash Ultimatum at least 1 time in each battle",
+            "Clear Main Theme 3-4 with a 3-star rating; You must deploy your own Absinthe, and cannot include any other Caster Operators as members"
+        ],
+        "op": "Main Theme 3-4",
+        "prof": "CASTER",
+        "subprof": "corecaster"
+    },
+    "char_141_nights_1": {
+        "name": "Haze",
+        "desc": [
+            "Deal a total of 80,000 damage with Haze (excluding Support Units)",
+            "Clear Main Theme S2-4 with a 3-star rating; You must deploy your own Haze, and have Haze defeat at least 2 Heavy Defenders"
+        ],
+        "op": "Main Theme S2-4",
+        "prof": "CASTER",
+        "subprof": "corecaster"
+    },
+    "char_466_qanik_1": {
+        "name": "Qanipalaat",
+        "desc": [
+            "During battle, have Qanipalaat use Falling Snow a total of 10 times (excluding Support Units)",
+            "Clear Main Theme 2-3 with a 3-star rating; You must deploy your own Qanipalaat, and have Qanipalaat defeat at least 2 Heavy Defenders"
+        ],
+        "op": "Main Theme 2-3",
+        "prof": "CASTER",
+        "subprof": "corecaster"
+    },
+    "char_164_nightm_1": {
+        "name": "Nightmare",
+        "desc": [
+            "During battle, have Nightmare use Night Phantom a total of 12 times (excluding Support Units)",
+            "Clear Main Theme S4-1 with a 3-star rating; You must deploy your own Nightmare, and cannot include any other Caster Operators as members"
+        ],
+        "op": "Main Theme S4-1",
+        "prof": "CASTER",
+        "subprof": "corecaster"
+    },
+    "char_411_tomimi_1": {
+        "name": "Tomimi",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Tomimi, and unleash Gavial's Protection Plan at least 1 time in each battle",
+            "Clear Side Story RI-2 with a 3-star rating; You must deploy your own Tomimi, and cannot include any other Caster Operators as members"
+        ],
+        "op": "Side Story RI-2",
+        "prof": "CASTER",
+        "subprof": "corecaster"
+    },
+    "char_002_amiya_1": {
+        "name": "Amiya",
+        "desc": [
+            "Defeat a total of 10 elite or leader enemies with Amiya (excluding Support Units)",
+            "Clear Main Theme 3-8 with a 3-star rating; You must deploy your own Core Caster-form Amiya, and have Core Caster-form Amiya defeat Skullshatterer"
+        ],
+        "op": "Main Theme 3-8",
+        "prof": "CASTER",
+        "subprof": "corecaster"
+    },
+    "char_4078_bdhkgt_1": {
+        "name": "Jieyun",
+        "desc": [
+            "Deal a total of 100,000 damage with Jieyun (excluding Support Units)",
+            "Clear Main Theme S2-2 with a 3-star rating; You must deploy your own Jieyun, and have Jieyun defeat at least 10 enemies"
+        ],
+        "op": "Main Theme S2-2",
+        "prof": "SNIPER",
+        "subprof": "aoesniper"
     }
 }
