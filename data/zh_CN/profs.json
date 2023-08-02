@@ -30,6 +30,12 @@
             },
             "musha": {
                 "name": "武者"
+            },
+            "centurion": {
+                "name": "强攻手"
+            },
+            "reaper": {
+                "name": "收割者"
             }
         }
     },
