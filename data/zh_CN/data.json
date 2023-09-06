@@ -299,6 +299,16 @@
         "prof": "WARRIOR",
         "subprof": "sword"
     },
+    "char_010_chen_2": {
+        "name": "陈",
+        "desc": [
+            "由非助战陈累计造成100000点伤害",
+            "3星通关主题曲5-9；必须携带并部署非助战陈，其他成员仅可编入7名干员"
+        ],
+        "op": "主题曲5-9",
+        "prof": "WARRIOR",
+        "subprof": "sword"
+    },
     "char_459_tachak_1": {
         "name": "战车",
         "desc": [
@@ -1469,6 +1479,16 @@
         "prof": "PIONEER",
         "subprof": "pioneer"
     },
+    "char_362_saga_2": {
+        "name": "嵯峨",
+        "desc": [
+            "由非助战嵯峨累计造成80000点伤害",
+            "3星通关别传WR-3；必须编入非助战嵯峨，且第一位部署嵯峨、嵯峨全程不撤退或被击倒"
+        ],
+        "op": "别传WR-3",
+        "prof": "PIONEER",
+        "subprof": "pioneer"
+    },
     "char_420_flamtl_1": {
         "name": "焰尾",
         "desc": [
@@ -2228,5 +2248,55 @@
         "op": "主题曲7-8",
         "prof": "WARRIOR",
         "subprof": "reaper"
+    },
+    "char_4019_ncdeer_1": {
+        "name": "九色鹿",
+        "desc": [
+            "战斗中非助战九色鹿累计使用仙山去远8次",
+            "3星通关别传IW-3；必须编入非助战九色鹿并上场，且不编入其他辅助干员"
+        ],
+        "op": "别传IW-3",
+        "prof": "SUPPORT",
+        "subprof": "blessing"
+    },
+    "char_1031_slent2_1": {
+        "name": "淬羽赫默",
+        "desc": [
+            "战斗中非助战淬羽赫默累计使用无畏者协议8次",
+            "3星通关主题曲6-3；必须编入非助战淬羽赫默并上场，且所有干员不被击倒"
+        ],
+        "op": "主题曲6-3",
+        "prof": "SUPPORT",
+        "subprof": "blessing"
+    },
+    "char_343_tknogi_1": {
+        "name": "月禾",
+        "desc": [
+            "战斗中非助战月禾累计使用迹无8次",
+            "3星通关主题曲S3-6；必须编入非助战月禾并上场，且所有干员不被击倒"
+        ],
+        "op": "主题曲S3-6",
+        "prof": "SUPPORT",
+        "subprof": "blessing"
+    },
+    "char_492_quercu_1": {
+        "name": "夏栎",
+        "desc": [
+            "战斗中非助战夏栎累计使用生灵的回响8次",
+            "3星通关主题曲9-2标准实战环境；必须编入非助战夏栎并上场，且不编入其他医疗干员"
+        ],
+        "op": "主题曲9-2标准实战环境",
+        "prof": "SUPPORT",
+        "subprof": "blessing"
+    },
+    "char_4105_almond_1": {
+        "name": "杏仁",
+        "desc": [
+            "战斗中非助战杏仁累计使用强力牵引10次",
+            "3星通关别传BI-2；必须编入非助战杏仁并上场，且至少使用2次强力牵引"
+        ],
+        "op": "别传BI-2",
+        "prof": "SPECIAL",
+        "subprof": "hookmaster"
     }
 }

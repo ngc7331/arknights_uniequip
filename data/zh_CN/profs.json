@@ -13,6 +13,9 @@
             },
             "craftsman": {
                 "name": "工匠"
+            },
+            "blessing": {
+                "name": "护佑者"
             }
         }
     },
