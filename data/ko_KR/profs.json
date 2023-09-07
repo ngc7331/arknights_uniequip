@@ -78,6 +78,9 @@
             },
             "stalker": {
                 "name": "매복자"
+            },
+            "pusher": {
+                "name": "추격자"
             }
         }
     },
@@ -95,6 +98,9 @@
             },
             "corecaster": {
                 "name": "코어 캐스터"
+            },
+            "blastcaster": {
+                "name": "블래스트 캐스터"
             }
         }
     },
