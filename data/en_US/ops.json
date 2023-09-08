@@ -227,6 +227,9 @@
     "Side Story WR-9": {
         "name": "Side Story WR-9"
     },
+    "Side Story NL-5": {
+        "name": "Side Story NL-5"
+    },
     "Main Theme 5-2": {
         "name": "Main Theme 5-2"
     },
@@ -235,6 +238,9 @@
     },
     "Main Theme 1-7": {
         "name": "Main Theme 1-7"
+    },
+    "Main Theme 11-2": {
+        "name": "Main Theme 11-2"
     },
     "Side Story WR-1": {
         "name": "Side Story WR-1"
@@ -268,5 +274,14 @@
     },
     "Side Story RI-2": {
         "name": "Side Story RI-2"
+    },
+    "Side Story BI-5": {
+        "name": "Side Story BI-5"
+    },
+    "Side Story WR-7": {
+        "name": "Side Story WR-7"
+    },
+    "Side Story BI-6": {
+        "name": "Side Story BI-6"
     }
 }

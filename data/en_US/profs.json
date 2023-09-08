@@ -78,6 +78,9 @@
             },
             "stalker": {
                 "name": "Ambusher"
+            },
+            "pusher": {
+                "name": "Push Stroker"
             }
         }
     },
@@ -95,6 +98,9 @@
             },
             "corecaster": {
                 "name": "Core Caster"
+            },
+            "blastcaster": {
+                "name": "Blast Caster"
             }
         }
     },

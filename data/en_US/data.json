@@ -1309,6 +1309,16 @@
         "prof": "MEDIC",
         "subprof": "physician"
     },
+    "char_147_shining_2": {
+        "name": "Shining",
+        "desc": [
+            "During battle, have Shining use Auto Protect a total of 35 times (excluding Support Units)",
+            "Clear Side Story NL-5 with a 3-star rating; You must deploy your own Shining, and allow no Operators to be defeated"
+        ],
+        "op": "Side Story NL-5",
+        "prof": "MEDIC",
+        "subprof": "physician"
+    },
     "char_402_tuye_1": {
         "name": "Tuye",
         "desc": [
@@ -1386,6 +1396,16 @@
             "Clear Main Theme 1-7 with a 3-star rating; You must deploy your own Siege, and only Vanguard Operators are allowed for the remaining members"
         ],
         "op": "Main Theme 1-7",
+        "prof": "PIONEER",
+        "subprof": "pioneer"
+    },
+    "char_112_siege_2": {
+        "name": "Siege",
+        "desc": [
+            "During battle, have Siege use Aerial Hammer a total of 40 times (excluding Support Units)",
+            "Clear Main Theme 11-2 with a 3-star rating; You must deploy your own Siege, Siege must be the first deployed, and Siege cannot retreat or be defeated for the entire stage"
+        ],
+        "op": "Main Theme 11-2",
         "prof": "PIONEER",
         "subprof": "pioneer"
     },
@@ -1648,5 +1668,75 @@
         "op": "Main Theme S2-2",
         "prof": "SNIPER",
         "subprof": "aoesniper"
+    },
+    "char_400_weedy_1": {
+        "name": "Weedy",
+        "desc": [
+            "Deal a total of 100,000 damage with Weedy (excluding Support Units)",
+            "Clear Side Story BI-5 with a 3-star rating; You must deploy your own Weedy, and cannot include any other Specialist Operators as members"
+        ],
+        "op": "Side Story BI-5",
+        "prof": "SPECIAL",
+        "subprof": "pusher"
+    },
+    "char_241_panda_1": {
+        "name": "FEater",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own FEater, and cause at least 2 enemies to fall in a pit in each battle",
+            "Clear Side Story WR-7 with a 3-star rating; You must deploy your own FEater, and use Destructive Fist at least 2 times"
+        ],
+        "op": "Side Story WR-7",
+        "prof": "SPECIAL",
+        "subprof": "pusher"
+    },
+    "char_277_sqrrel_1": {
+        "name": "Shaw",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Shaw, and cause at least 2 enemies to fall in a pit in each battle",
+            "Clear Main Theme 2-8 with a 3-star rating; You must deploy your own Shaw, and cause at least 2 Metal Crabs to fall in a pit"
+        ],
+        "op": "Main Theme 2-8",
+        "prof": "SPECIAL",
+        "subprof": "pusher"
+    },
+    "char_134_ifrit_1": {
+        "name": "Ifrit",
+        "desc": [
+            "Defeat a total of 80 enemies with Ifrit (excluding Support Units)",
+            "Clear Main Theme 1-5 with a 3-star rating; You must deploy your own Ifrit, and cannot include any other Sniper, Caster, or Supporter Operators as members"
+        ],
+        "op": "Main Theme 1-5",
+        "prof": "CASTER",
+        "subprof": "blastcaster"
+    },
+    "char_489_serum_1": {
+        "name": "Corroserum",
+        "desc": [
+            "Deal a total of 100,000 damage with Corroserum (excluding Support Units)",
+            "Clear Side Story BI-6 with a 3-star rating; You must deploy your own Corroserum, and use Conductive Corrosive Blast at least 2 times"
+        ],
+        "op": "Side Story BI-6",
+        "prof": "CASTER",
+        "subprof": "blastcaster"
+    },
+    "char_1029_yato2_1": {
+        "name": "Kirin R Yato",
+        "desc": [
+            "Complete a total of 5 battles; In each battle, you must deploy your own Kirin R Yato at least 3 times",
+            "Clear Main Theme 3-7 with a 3-star rating; You must deploy your own Kirin R Yato, and have Kirin R Yato defeat at least 2 Artillerymen"
+        ],
+        "op": "Main Theme 3-7",
+        "prof": "SPECIAL",
+        "subprof": "executor"
+    },
+    "char_1030_noirc2_1": {
+        "name": "Rathalos S Noir Corne",
+        "desc": [
+            "Defeat a total of 10 elite or leader enemies with Rathalos S Noir Corne (excluding Support Units)",
+            "Clear Main Theme 3-8 with a 3-star rating; You must deploy your own Rathalos S Noir Corne, and have Rathalos S Noir Corne defeat Skullshatterer"
+        ],
+        "op": "Main Theme 3-8",
+        "prof": "WARRIOR",
+        "subprof": "musha"
     }
 }
