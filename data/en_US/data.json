@@ -1679,6 +1679,16 @@
         "prof": "SPECIAL",
         "subprof": "pusher"
     },
+    "char_4036_forcer_1": {
+        "name": "Enforcer",
+        "desc": [
+            "Complete a total of 5 battles; You must deploy your own Enforcer, and unleash Staggering Shot at least 2 times in each battle",
+            "Clear Side Story GA-EX-1 with a 3-star rating; You must deploy your own Enforcer, and cause at least 3 Pathfinder Sagittarius Prefects to fall in a pit"
+        ],
+        "op": "Side Story GA-EX-1",
+        "prof": "SPECIAL",
+        "subprof": "pusher"
+    },
     "char_241_panda_1": {
         "name": "FEater",
         "desc": [
