@@ -159,6 +159,9 @@
             },
             "fortress": {
                 "name": "要塞"
+            },
+            "unyield": {
+                "name": "不屈者"
             }
         }
     }
