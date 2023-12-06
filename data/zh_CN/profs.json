@@ -76,6 +76,9 @@
             },
             "physician": {
                 "name": "医师"
+            },
+            "incantationmedic": {
+                "name": "咒愈师"
             }
         }
     },
@@ -128,6 +131,9 @@
             },
             "phalanx": {
                 "name": "阵法术师"
+            },
+            "funnel": {
+                "name": "驭械术师"
             }
         }
     },
