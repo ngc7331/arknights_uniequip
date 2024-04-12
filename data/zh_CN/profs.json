@@ -151,6 +151,9 @@
             },
             "bearer": {
                 "name": "执旗手"
+            },
+            "tactician": {
+                "name": "战术家"
             }
         }
     },
